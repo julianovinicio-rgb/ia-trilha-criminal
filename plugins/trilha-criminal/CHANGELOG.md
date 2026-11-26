@@ -2,6 +2,26 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.10.0
+
+Peça em Word e escrita sem marcas de texto automático. Motivo: as minutas saíam só no chat, e cada pedido de Word era formatado de um jeito; e a regra de linguagem nomeava apenas o "travessão estilístico", o que deixava passar o travessão de aposto e outras marcas comuns de texto gerado.
+
+### Peças Defensivas, Habeas Corpus, Recurso de Apelação, Recursos nos Tribunais Superiores e Flagrante e Custódia
+
+- Novo `scripts/peca_word.py`, idêntico nas cinco: gera o Word a partir de blocos em JSON, um por parágrafo, no padrão neutro da Trilha (A4; margens de 3 cm em cima e à esquerda e 2 cm embaixo e à direita; Times New Roman; corpo 12 pt justificado, recuo de 1,5 cm e entrelinhas 1,15; citações, transcrições e ementas em 11 pt com recuo de 4 cm; tópicos numerados em negrito; letra dos pedidos em negrito; número de página; tudo em preto; fonte nos estilos e não nos trechos; sem parágrafos vazios e sem seções recolhíveis). A opção `--base` usa o timbrado ou modelo enviado pelo usuário. Comandos `auditar` (forma e escrita de um Word) e `revisar-texto` (marcas de texto automático em texto corrido), e modelos de entrada para petição e para habeas corpus, com o preâmbulo em três blocos.
+- Nova referência `references/peca-em-word.md`, idêntica nas cinco: quando gerar, tipos de bloco e como ler a auditoria.
+- `SKILL.md` das cinco, `revisao-e-entrega.md` de Peças Defensivas e de Apelação, `redacao-pedidos.md` do Habeas Corpus e `entregas.md` de Flagrante e Custódia: a minuta integral sai também em Word; sem timbrado do usuário, vale o padrão neutro. Saíram as instruções que exigiam o papel timbrado da Trilha e proibiam modelo sem timbre.
+- Habeas Corpus: sem timbrado, o endereço profissional vai no parágrafo dos impetrantes.
+
+### Todas as habilidades
+
+- `nucleo-comum.md`: travessão proibido em qualquer função no texto destinado ao juízo, com a pontuação que o substitui; nova seção "Marcas de texto automático" (muletas de transição, contraste fabricado, ênfase artificial, fórmulas de efeito, trios por hábito, abertura genérica, simetria mecânica e marcação de chat), com a ressalva das expressões técnicas; regra de formato atualizada para o Word.
+- Menções a "travessões estilísticos" em `SKILL.md` e referências de Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Recursos nos Tribunais Superiores e Habeas Corpus alinhadas ao núcleo comum.
+
+### Ferramentas
+
+- `verificar.py` confere que `scripts/peca_word.py` e `references/peca-em-word.md` são idênticos nas cinco habilidades.
+
 ## 0.9.0
 
 Lições de dois habeas corpus reais redigidos com o plugin em novembro de 2026: um de revogação de cautelares diversas da prisão e um contra manutenção de preventiva em processo do júri. Fatos, nomes e números dos casos não entram no pacote.

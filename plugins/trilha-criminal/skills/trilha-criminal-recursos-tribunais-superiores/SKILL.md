@@ -27,7 +27,7 @@ Use [Cabimento e prazos](references/cabimento-e-prazos.md) para esta etapa.
 - Não aplique regras do processo civil aos recursos criminais por hábito, nem afaste o CPC onde ele incide. Para cada regra, indique a fonte que a torna aplicável.
 - Não transporte número de processo, nome de parte, de advogado ou de ministro de casos anteriores. Precedente entra na peça somente depois de pesquisado, lido no inteiro teor ou no registro oficial disponível e comparado com o caso.
 - Não faça protocolo, peticionamento, envio a terceiros ou alteração de documentos. Use pesquisa pública com termos abstratos, sem dados do cliente.
-- Escreva em português brasileiro técnico, direto e natural, sem travessões estilísticos, retórica, clichês ou negrito excessivo.
+- Escreva em português brasileiro técnico, direto e natural, sem travessão, retórica, clichês, negrito excessivo ou as demais marcas de texto automático do núcleo comum.
 
 ## Pontos de atenção permanentes
 
@@ -50,6 +50,7 @@ Estes pontos são regras abstratas, conferidas a cada execução nas fontes indi
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## Fluxo de trabalho

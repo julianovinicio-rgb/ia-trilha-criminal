@@ -20,7 +20,7 @@ Fica fora do escopo a preventiva decretada ou mantida depois da custódia, que p
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira ou da Constituição, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
 - Jurisprudência é pesquisada e conferida na própria execução, em fonte oficial, sem catálogo fixo de precedentes. Sem pesquisa possível no tempo disponível, a entrega diz que o fundamento jurisprudencial está pendente de verificação.
 - Não faça protocolo, contato com autoridades, familiares ou testemunhas, nem envio de documentos a serviços externos sem instrução específica. Use pesquisa pública com termos abstratos, sem dados do cliente.
-- Escreva em português brasileiro técnico, direto e natural, sem travessões estilísticos, retórica, clichês ou negrito excessivo.
+- Escreva em português brasileiro técnico, direto e natural, sem travessão, retórica, clichês, negrito excessivo ou as demais marcas de texto automático do núcleo comum.
 
 ## Referências
 
@@ -33,6 +33,7 @@ Fica fora do escopo a preventiva decretada ou mantida depois da custódia, que p
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## 1. Identificar a situação

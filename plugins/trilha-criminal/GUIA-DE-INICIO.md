@@ -33,6 +33,7 @@ Ele ensina ao assistente um método de trabalho defensivo criminal. São oito ha
 - **Artigos de lei conferidos.** O texto é lido em fonte oficial na execução, com a data registrada na nota.
 - **Citações literais só do original.** Trecho entre aspas ou em itálico foi conferido no documento. Se o original não estava disponível, a nota avisa.
 - **Nenhuma conta de cabeça.** Datas, frações e penas são calculadas por um script, e a entrega traz a memória de cálculo para você refazer. A data projetada é uma conta sobre os dados informados, e não um direito reconhecido. Se a sua conversa não executa código, a entrega avisa que a conta foi feita à mão.
+- **Minuta em Word.** A minuta completa de uma petição vem também em Word, em Times New Roman e toda em preto, sem timbrado. Se quiser o seu timbrado, envie o modelo do escritório em Word junto com o pedido.
 - **Nenhuma peça "pronta para protocolo".** O plugin entrega minuta elaborada, revisada no escopo indicado ou com pendências. A conferência final e a decisão de protocolar são suas.
 
 ## O que o plugin não faz

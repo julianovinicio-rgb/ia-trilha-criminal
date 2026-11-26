@@ -39,7 +39,7 @@ Use no máximo dois precedentes por tese. Para cada um, explique a analogia em u
 
 ## Revisão de linguagem e apresentação
 
-Corte repetições da mesma premissa em capítulos diferentes; preserve a retomada breve necessária para concluir um pedido. Evite parágrafos excessivamente simétricos, frases de efeito, adjetivação, deferência repetitiva e linguagem de manual. Não use travessões como recurso estilístico.
+Corte repetições da mesma premissa em capítulos diferentes; preserve a retomada breve necessária para concluir um pedido. Evite parágrafos excessivamente simétricos, frases de efeito, adjetivação, deferência repetitiva e linguagem de manual. Não use travessão em nenhuma função e evite as demais marcas de texto automático listadas no [Núcleo comum](nucleo-comum.md).
 
 Use negrito apenas para informação realmente decisiva. Tabelas, cronologias e imagens devem resolver um problema de compreensão, indicar fonte e receber explicação no texto. Captura parcial de documento não pode ocultar ressalva relevante. Não substitua análise por colagem de imagens ou listas de ementas.
 

@@ -38,9 +38,7 @@ Na entrega da revisão, diferencie erro documental confirmado, fragilidade argum
 
 Use as ferramentas e skills de documento disponíveis quando o pedido envolver esses formatos. Preserve o original e gere versão identificável, salvo instrução expressa de edição no próprio arquivo.
 
-Respeite o modelo institucional indicado. Para modelos da Trilha Criminal, use a referência original aprovada de papel timbrado, preservando cabeçalho, rodapé e imagem, a partir do arquivo fornecido pelo usuário. Não presuma que esse arquivo está instalado com a skill. Se não estiver acessível, avance no conteúdo e solicite a referência necessária para finalizar a apresentação, sem criar modelo institucional sem timbre por conta própria.
-
-Para peças de escritório, use o padrão especificamente indicado pelo usuário, sem confundir identidade da Trilha com identidade do escritório.
+Razões integrais e demais minutas completas saem também em Word, conforme [Peça em Word](peca-em-word.md), salvo pedido de outro formato. Se o usuário fornecer o timbrado ou o modelo do escritório, gere com ele e preserve cabeçalho, rodapé e imagem; sem ele, use o padrão neutro da Trilha, que não tem timbrado, e não crie identidade institucional por conta própria.
 
 Ao editar DOCX, preserve runs, campos, estilos, numeração, tabelas, imagens, notas e citações. Não reconstrua todos os parágrafos como texto simples nem faça substituição global de pontuação.
 

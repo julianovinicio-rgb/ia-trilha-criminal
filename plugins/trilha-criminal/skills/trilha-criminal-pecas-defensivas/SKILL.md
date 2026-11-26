@@ -40,6 +40,7 @@ Leia apenas o necessário ao trabalho, nos momentos indicados. Um pedido pontual
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 Escolha a família e, dentro dela, a espécie e o momento processual. Combine módulos apenas quando houver questão concreta que o justifique.
@@ -99,4 +100,4 @@ Revise dados e fontes, adequação jurídica, força e coerência da defesa e qu
 
 Entregue exatamente o plano, trecho, revisão ou minuta solicitado. Mantenha apontamentos ao advogado fora do texto destinado ao juízo, salvo ressalva que deva integrar a própria argumentação. Se faltar informação decisiva, identifique o ponto e o impacto, sem declarar a peça pronta para protocolo.
 
-Use o formato pedido e o modelo visual fornecido. Ao gerar Word, preserve o timbre aprovado, se disponível, e os dados objetivos; não improvise outro padrão institucional. Não inclua no pacote distribuível autos, petições reais, nomes de clientes ou caminhos privados. Exemplos da skill devem ser fictícios e identificados como tais.
+Entregue a minuta integral também em Word, conforme [Peça em Word](references/peca-em-word.md), salvo pedido de outro formato. Se o usuário fornecer timbrado ou modelo, use-o e preserve os dados objetivos; sem ele, use o padrão neutro da Trilha e não improvise identidade institucional. Não inclua no pacote distribuível autos, petições reais, nomes de clientes ou caminhos privados. Exemplos da skill devem ser fictícios e identificados como tais.

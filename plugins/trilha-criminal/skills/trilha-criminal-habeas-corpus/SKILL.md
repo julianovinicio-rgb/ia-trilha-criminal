@@ -51,6 +51,7 @@ Não transforme redação em protocolo, envio a terceiros ou alteração de docu
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira. |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos. |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha. |
+| [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita. |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam. |
 
 Leia apenas os módulos pertinentes; não transforme pedido pontual em auditoria integral nem carregue todos os módulos por rotina.

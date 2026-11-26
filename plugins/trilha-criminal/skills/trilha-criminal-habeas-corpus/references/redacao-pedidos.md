@@ -30,7 +30,7 @@ No mérito, aplique [Confronto literal](confronto-literal.md): trechos judiciais
 
 Escreva em português brasileiro técnico, direto, profissional e natural. Cada parágrafo autoral deve desenvolver uma ideia completa, com no máximo um ponto seguido; prefira dividir núcleos argumentativos quando necessário, sem substituir pontos mecanicamente por vírgulas ou produzir períodos intermináveis. Citações literais conservam toda a pontuação original.
 
-Use títulos específicos, verbos precisos e negrito apenas para o essencial. Evite travessões estilísticos, clichês, frases de efeito e conclusões de intensidade superior às fontes. Firmeza deve decorrer da demonstração, sem linguagem hesitante por rotina.
+Use títulos específicos, verbos precisos e negrito apenas para o essencial. Evite travessão, clichês, frases de efeito, as demais marcas de texto automático do núcleo comum e conclusões de intensidade superior às fontes. Firmeza deve decorrer da demonstração, sem linguagem hesitante por rotina.
 
 Diferencie o que o documento registra, o que a acusação afirma e o que a defesa sustenta. Não chame episódio imputado de desvio isolado, fato confessado ou crime praticado sem fonte e necessidade estratégica. A tese subsidiária pode trabalhar uma premissa por hipótese expressa, sem abandonar a principal.
 
@@ -110,4 +110,4 @@ Se a execução depender de monitoração, acolhimento ou outra condição incer
 
 ## Formato de entrega
 
-Use o formato solicitado. Em Word, aplique itálico real, preserve o timbre institucional aprovado e confira a conversão. Para modelo institucional Trilha Criminal, use o papel timbrado original aprovado quando acessível; não improvise substituto sem autorização. Não presuma acesso a arquivo privado ou habilidade de formatação; se o modelo faltar, conclua o conteúdo e indique apenas a limitação visual. Não altere originais probatórios.
+A minuta integral sai também em Word, conforme [Peça em Word](peca-em-word.md), salvo pedido de outro formato. Trechos da decisão vão em bloco `transcricao`, que aplica itálico real. Se o usuário fornecer timbrado ou modelo do escritório, gere com ele e confira o resultado; sem ele, use o padrão neutro da Trilha, sem improvisar identidade institucional. O padrão neutro não tem endereço no rodapé: escreva o endereço profissional no parágrafo dos impetrantes. Não presuma acesso a arquivo privado. Não altere originais probatórios.

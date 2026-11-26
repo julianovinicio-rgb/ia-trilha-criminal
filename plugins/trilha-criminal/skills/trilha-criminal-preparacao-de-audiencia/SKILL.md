@@ -83,6 +83,6 @@ Adapte prioridades e extensão ao tempo disponível. Desenvolva a razão princip
 
 Confira aderência ao pedido, fontes, mudanças de estratégia, perguntas arriscadas, fundamento jurídico, pedidos e adequação oral. Uma nova revisão pelo mesmo modelo não é auditoria independente. Não anuncie revisão integral da mídia ou validação de jurisprudência sem tê-las feito.
 
-Entregue no chat por padrão e gere arquivo apenas quando solicitado. Escreva em português brasileiro técnico, direto e natural, com negrito seletivo, sem travessões estilísticos, retórica ou repetição. Se houver Word, use o timbre aprovado disponível, preservando seus elementos e dados objetivos. Não improvise identidade institucional.
+Entregue no chat por padrão e gere arquivo apenas quando solicitado. Escreva em português brasileiro técnico, direto e natural, com negrito seletivo, sem travessão, retórica, repetição ou as demais marcas de texto automático do núcleo comum. Se houver Word, use o timbre aprovado disponível, preservando seus elementos e dados objetivos. Não improvise identidade institucional.
 
 Na continuidade, conserve cliente, recorte, fontes, decisões, pedidos efetivamente feitos e pendências. Se forem determinados memoriais, organize o material para a redação autorizada, aproveitando Peças Defensivas quando disponível, sem dependência obrigatória. Não inclua autos, dados de clientes ou caminhos privados em recursos distribuíveis da skill.

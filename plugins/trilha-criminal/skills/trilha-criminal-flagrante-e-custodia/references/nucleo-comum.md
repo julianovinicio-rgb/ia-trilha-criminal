@@ -43,12 +43,28 @@ Use um destes estados ao entregar minuta, e nenhum mais otimista do que a confer
 ## Linguagem
 
 - Português brasileiro técnico, direto e natural.
-- Sem travessões estilísticos, clichês, frases de efeito, adjetivação no lugar da demonstração e negrito excessivo.
+- Sem travessão no texto destinado ao juízo, em nenhuma função: nem o travessão longo, nem a meia-risca ou o hífen entre espaços no lugar dele. Aposto e intercalação vão entre vírgulas ou parênteses; explicação e consequência vêm depois de dois-pontos ou em frase própria. Só a citação literal conserva o travessão do original.
+- Sem clichês, frases de efeito, adjetivação no lugar da demonstração e negrito excessivo.
 - Firmeza decorre da demonstração. Grau de certeza ajustado à fonte, sem hesitação por hábito.
 - Títulos expressam a questão concreta ou a conclusão demonstrável.
 - No texto escrito destinado ao juízo, cada parágrafo autoral desenvolve uma ideia completa e encadeada, de preferência com no máximo um ponto seguido interno. A preferência não se cumpre trocando pontos por vírgulas: núcleos independentes viram parágrafos próprios. Ela não se aplica a citações literais, que conservam a pontuação original, nem a roteiros de fala, que pedem frases curtas e pronunciáveis.
 - No máximo dois precedentes por tese, cada um com a explicação da analogia em uma ou duas linhas.
 
+## Marcas de texto automático
+
+O texto destinado ao juízo deve soar como escrito por advogado, e não por ferramenta. Antes de entregar, releia procurando estas marcas e reescreva o trecho, sem trocar uma marca por outra:
+
+- **Muletas de transição:** "cumpre destacar", "importante ressaltar", "vale lembrar", "ressalte-se", "insta salientar", "nesse diapasão", "nessa esteira". Diga diretamente o que importa.
+- **Contraste fabricado:** "não se trata de X, mas de Y" e "não é apenas X, é Y", quando ninguém sustentou X. Afirme Y e demonstre.
+- **Ênfase artificial:** "é evidente que", "salta aos olhos", "não restam dúvidas", "cristalino", "gritante". A força vem do dado concreto.
+- **Fórmulas de efeito:** pergunta retórica, "não por acaso", "e não é só", "mais do que isso", "em outras palavras", "dito de outro modo", e o parágrafo ou tópico que termina em frase de impacto ou no resumo do que acabou de dizer.
+- **Trios por hábito:** três adjetivos, três exemplos ou três frases paralelas seguidas, quando o terceiro nada acrescenta.
+- **Abertura genérica:** começar o tópico pela importância da garantia ou pela história do instituto, antes do dado do caso.
+- **Simetria mecânica:** parágrafos do mesmo tamanho e da mesma estrutura em sequência, e lista com marcadores onde cabe texto corrido.
+- **Marcação de chat:** asterisco, cerquilha, marcador de lista e emoji no texto da peça.
+
+Nas habilidades que redigem petição, o script descrito na referência Peça em Word aponta parte dessas marcas; a releitura continua necessária. Expressão técnica não é marca: "prisão em flagrante", "flagrante ilegalidade" como requisito de concessão de ofício e "decisão teratológica" como critério de cabimento seguem o uso dos tribunais.
+
 ## Formato e arquivos
 
-Entrega no chat por padrão; arquivo apenas quando solicitado, no formato pedido. Em Word, o timbre aprovado é usado quando fornecido, sem improvisar identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.
+Minuta integral de petição sai também em Word, no padrão neutro da Trilha, nas habilidades que têm a referência Peça em Word e seu script; as demais entregas vão no chat, e arquivo é gerado quando solicitado, no formato pedido. Se o usuário fornecer timbrado ou modelo de escritório, ele é usado; sem ele, não se improvisa identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.

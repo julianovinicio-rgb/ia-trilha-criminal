@@ -1,6 +1,6 @@
 # IA Trilha Criminal
 
-Versão 0.9.0, distribuída aos alunos da Trilha Criminal.
+Versão 0.10.0, distribuída aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -42,13 +42,19 @@ Nenhum prazo, fração ou percentual legal está fixado no código. Esses valore
 
 A execução do script depende de a conversa permitir execução de código. Sem isso, a habilidade orienta a conta manual pelas mesmas convenções e marca a entrega como não executada pelo script.
 
+## Peça em Word
+
+As habilidades que redigem petição (Peças Defensivas, Habeas Corpus, Recurso de Apelação, Recursos nos Tribunais Superiores e Flagrante e Custódia) têm o arquivo `scripts/peca_word.py`, idêntico nas cinco, e a referência `references/peca-em-word.md`. A minuta integral sai também em Word no padrão neutro da Trilha: A4, Times New Roman, corpo em 12 pt justificado, entrelinhas 1,15, citações em 11 pt com recuo de 4 cm, tópicos numerados em negrito, número de página e todo o texto em preto, sem timbrado. Quem tiver timbrado ou modelo próprio em Word pode enviá-lo, e o script o usa como base.
+
+O mesmo script audita o Word gerado ou recebido: forma (fonte, cor, página, parágrafos vazios) e marcas de texto automático fora das citações, como travessão, muletas de transição e ênfase artificial. A lista dessas marcas está no núcleo comum. Gerar o Word exige execução de código e a biblioteca `python-docx`; sem elas, a minuta vem no chat com o aviso.
+
 ## Conferência legislativa
 
 Todas as habilidades têm o arquivo `references/conferencia-legislativa.md`, com conteúdo idêntico. Ele concentra a regra de conferência de artigos de lei: texto em fonte oficial na própria execução, com preferência pelo Planalto na versão compilada e, se ele não puder ser aberto, outra fonte oficial identificada; análise da redação aplicável na data do fato; e registro da fonte e da data na nota ao advogado, fora do texto destinado ao juízo. Alterações futuras dessa regra devem ser feitas nesse arquivo em cada habilidade.
 
 ## Núcleo comum
 
-Todas as habilidades têm o arquivo `references/nucleo-comum.md`, com conteúdo idêntico: autorização e sigilo, limites de afirmação, separação entre peça e nota ao advogado, estados de entrega e linguagem. Regra mais específica de cada habilidade prevalece sobre ele.
+Todas as habilidades têm o arquivo `references/nucleo-comum.md`, com conteúdo idêntico: autorização e sigilo, limites de afirmação, separação entre peça e nota ao advogado, estados de entrega, linguagem e marcas de texto automático a evitar. Regra mais específica de cada habilidade prevalece sobre ele.
 
 ## Localização de documentos
 
@@ -58,11 +64,11 @@ Todas as habilidades têm também o arquivo `references/localizacao-de-documento
 
 Relatórios anteriores orientam o trabalho. Afirmações decisivas devem ser conferidas nas fontes acessíveis, com indicação das lacunas e do último ato abrangido. Um pedido de estudo não autoriza automaticamente redigir uma peça.
 
-O pacote contém instruções, referências metodológicas e o script de cálculo da habilidade Cálculos Penais. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
+O pacote contém instruções, referências metodológicas, o script de cálculo da habilidade Cálculos Penais e o script de Word das habilidades que redigem petição. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
 
 Toda jurisprudência é pesquisada e conferida na própria execução. Os poucos julgados lidos na formação do Habeas Corpus ficam em `pistas-de-pesquisa.md`, com data e validade, apenas como ponto de partida. Onde um dado não puder ser conferido, a entrega informa que está pendente de verificação.
 
-Para documentos Word, use o timbrado aprovado quando disponível. O plugin não inclui timbrado de escritório nem uma ferramenta própria de edição de documentos.
+O plugin não inclui timbrado de escritório. O Word sai no padrão neutro da Trilha, ou sobre o timbrado que o usuário enviar.
 
 As habilidades também podem ser chamadas explicitamente pelo nome disponível no seletor de habilidades. A instalação de um plugin é distinta da instalação avulsa de cada habilidade. O pacote é instalável no Claude e no Codex, com manifestos em `.claude-plugin/plugin.json`, `.codex-plugin/plugin.json` e `plugin.json`.
 
@@ -83,3 +89,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.8.2:** descrição da habilidade Cálculos Penais reforçada para entrar em toda pergunta que dependa de contar tempo a partir de uma data informada, com exemplos de pedido.
 - **0.8.3:** descrição de Recursos nos Tribunais Superiores reescrita para entrar em pergunta curta sobre decisão de relator, Presidência ou turma do STJ e do STF; descrição de Cálculos Penais começa pelo gatilho; fronteiras com Habeas Corpus e Recurso de Apelação explicitadas.
 - **0.9.0:** Habeas Corpus revisto a partir de dois trabalhos reais: preâmbulo fixo em três blocos, síntese argumentativa separada do histórico, rotina para minuta parada antes do protocolo, HC concomitante a recurso com o mesmo pedido, enfrentamento de fundamento formal e de decisão reproduzida, escada de subsidiários em cautelares diversas e técnicas para preventiva mantida. Em todas as habilidades, súmula e julgado só entram a partir do portal do tribunal ou marcados como não conferidos, e a data do ato se distingue da data da movimentação.
+- **0.10.0:** a minuta integral de petição sai também em Word, no padrão neutro da Trilha (Times New Roman, tudo em preto, sem timbrado), por um script com auditoria de forma e de escrita; o núcleo comum proíbe o travessão em qualquer função no texto ao juízo e lista as marcas de texto automático a evitar.

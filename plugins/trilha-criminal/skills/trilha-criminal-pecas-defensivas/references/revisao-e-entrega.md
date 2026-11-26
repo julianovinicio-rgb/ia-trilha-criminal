@@ -30,7 +30,7 @@ Se faltar dado essencial, avance no conteúdo independente e marque o ponto de f
 
 ## Arquivos e continuidade
 
-Gere arquivo apenas no formato e local solicitados ou necessários à entrega autorizada. Preserve documentos probatórios; faça revisão em cópia, salvo instrução expressa para editar o original. Use timbre e identidade visual aprovados, quando fornecidos; não invente marca, assinatura ou número profissional.
+A minuta integral sai também em Word, conforme [Peça em Word](peca-em-word.md); outros arquivos, no formato e local solicitados. Preserve documentos probatórios; faça revisão em cópia, salvo instrução expressa para editar o original. Use timbre e identidade visual do usuário, quando fornecidos; não invente marca, assinatura ou número profissional.
 
 Confira abertura, conteúdo e, quando houver geração com formatação, apresentação no nível efetivamente verificado. Forneça link funcional. Diferencie inspeção estrutural de inspeção visual.
 

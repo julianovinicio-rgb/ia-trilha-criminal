@@ -26,7 +26,7 @@ Escreva com firmeza, precisão e perspectiva defensiva. Use verbos que reflitam 
 
 Enfrente a prova adversa em seu alcance real, sem transformá-la em concessão desnecessária. A crítica deve mostrar por que ela não sustenta a conclusão impugnada ou por que há interpretação defensiva melhor fundamentada.
 
-Evite introduções acadêmicas, elogios ao julgador, adjetivos de indignação, frases de efeito, travessões estilísticos e repetição de garantias sem aplicação. Negrito deve destacar somente o que orienta a compreensão.
+Evite introduções acadêmicas, elogios ao julgador, adjetivos de indignação, frases de efeito, travessão, as demais marcas de texto automático do núcleo comum e repetição de garantias sem aplicação. Negrito deve destacar somente o que orienta a compreensão.
 
 Use citações curtas e contextualizadas. Não componha a peça por colagem de depoimentos, ementas ou doutrina. Explique o que cada passagem demonstra e o que não permite concluir.
 

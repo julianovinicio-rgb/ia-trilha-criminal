@@ -34,6 +34,7 @@ Em revisão pontual, limite o exame ao necessário. Em razões integrais, examin
 | Menção, citação, transcrição ou análise de artigo de lei brasileira | [Conferência legislativa](references/conferencia-legislativa.md) |
 | Indicação de documento, trecho ou mídia dos autos | [Localização de documentos](references/localizacao-de-documentos.md) |
 | Autorização, sigilo, nota ao advogado, estados de entrega e linguagem | [Núcleo comum](references/nucleo-comum.md) |
+| Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita | [Peça em Word](references/peca-em-word.md) |
 | Calibrar formato, proporção e tom antes de entregar, com exemplo fictício cujos fatos e conclusões não se copiam | [Exemplo de entrega](references/exemplo-de-entrega.md) |
 
 Consulte apenas os módulos necessários. Esta estrutura não obriga a produzir um relatório por módulo nem a carregar todos os módulos para ajustar um título.

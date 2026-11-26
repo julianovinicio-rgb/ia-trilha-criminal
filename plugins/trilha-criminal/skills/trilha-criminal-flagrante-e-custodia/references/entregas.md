@@ -1,6 +1,6 @@
 # Entregas
 
-Toda entrega desta skill é curta, utilizável no próprio dia e indica o que não foi conferido. Entregue no chat por padrão e gere arquivo apenas quando solicitado. Com audiência iminente, a ordem de entrega é: lista de vícios, roteiro de fala, minuta.
+Toda entrega desta skill é curta, utilizável no próprio dia e indica o que não foi conferido. Entregue no chat. A minuta escrita completa sai também em Word, conforme [Peça em Word](peca-em-word.md), salvo pedido de outro formato. Com audiência iminente, a ordem de entrega é: lista de vícios, roteiro de fala, minuta; o Word não atrasa as duas primeiras.
 
 ## Lista de vícios
 
