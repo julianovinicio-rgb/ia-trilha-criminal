@@ -1,6 +1,6 @@
 {
   "name": "trilha-criminal",
-  "version": "0.8.3",
+  "version": "0.9.0",
   "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF e cálculos penais com fontes rastreáveis.",
   "author": {
     "name": "Juliano Negreiros"
@@ -22,7 +22,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Trilha Criminal",
+    "displayName": "IA Trilha Criminal",
     "logo": "./assets/trilha-logo-v024.png",
     "logoDark": "./assets/trilha-logo-v024.png",
     "composerIcon": "./assets/trilha-logo-v024.png",

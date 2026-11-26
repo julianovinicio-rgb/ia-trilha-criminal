@@ -34,7 +34,7 @@ Confronte riscos descritos, fatos supervenientes e adequação de medidas dirigi
 
 Não estenda a um corréu episódio de intimidação atribuído a outro sem suporte. Identifique origem da informação, eventual intermediação, prova disponível e negativa defensiva, sem tratar relato como ocorrência incontroversa.
 
-Se houver HC anterior ou em curso, confira objeto, autoridade, decisão posterior, resultado atual, prevenção e sobreposição antes de recomendar outra via. Não presuma que liminar negada encerrou o HC nem que a apelação substitui toda tutela urgente.
+Se houver HC anterior ou em curso, confira objeto, autoridade, decisão posterior, resultado atual, prevenção e sobreposição antes de recomendar outra via. Não presuma que liminar negada encerrou o HC nem que a apelação substitui toda tutela urgente. Os pedidos do capítulo cautelar das razões devem ser coerentes com os do HC sobre a mesma restrição: confronte principal e subsidiários das duas peças e explique na nota ao advogado a divergência intencional.
 
 ## Construção dos pedidos
 

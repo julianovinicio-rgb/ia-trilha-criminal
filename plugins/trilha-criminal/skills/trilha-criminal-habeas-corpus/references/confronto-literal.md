@@ -33,6 +33,17 @@ Sem original acessível, não produza uma citação literal reconstruída. Ident
 
 Não chame indistintamente todas as situações de gravidade abstrata. Reconhecer o conteúdo de uma decisão para enfrentá-lo não exige admitir como verdadeiro o fato acusatório.
 
+## Fundamento formal e decisão reproduzida
+
+Quando o ato coator indeferir por razão formal (documento não juntado, preclusão, inércia da parte, remissão a decisão anterior), transcreva esse fundamento literalmente e responda a ele. Verifique:
+
+1. a que pedido a diligência ou o requisito formal se referia, porque pode ter sido só o pedido subsidiário ou humanitário;
+2. se o pedido principal foi examinado;
+3. se a premissa fática da decisão corresponde aos autos na data em que foi proferida (por exemplo, documentos juntados com a reconsideração e mesmo assim dados como ausentes);
+4. se a consequência invocada, como a preclusão, é compatível com a natureza da medida, conforme [Mérito e cautelares](merito-cautelar.md).
+
+Decisão que mantém prisão ou cautelar reproduzindo o texto de decisão anterior não responde a argumento novo. Compare o texto das duas decisões. Se coincidirem, indique o ponto e enfrente-o com o art. 315, § 2º, III e IV, do CPP, conferido na execução. Expressões que denunciam texto de outra fase ("representados", "peça acusatória" em decisão posterior à denúncia) são indício útil.
+
 ## Fundamentos incorporados e supervenientes
 
 Se houver remissão a outro ato, obtenha o ato referido, verifique o que foi efetivamente incorporado e se há análise individualizada pertinente. Não sustente nulidade automática de toda fundamentação por remissão. Também não valide remissão vazia apenas porque há referência a outro documento.

@@ -9,6 +9,7 @@ Delimite, para cada tese probatória relevante: **premissa necessária → fonte
 | Operação | Tratamento |
 |---|---|
 | Conferir erro objetivo em decisão com documento já existente | Mostre ambos os trechos e a repercussão do erro; examine autenticidade, completude e eventual documento contrário. |
+| Montar quadro de horários a partir de documentos oficiais | É operação de leitura, não de valoração. Indique na peça a fonte de cada linha e não inclua no quadro inferência defensiva. |
 | Aplicar consequência jurídica a fatos expressamente fixados | Transcreva a moldura fática aceita e explique por que a conclusão muda sem escolher outra versão dos acontecimentos. Pesquise revaloração aderente ao caso. |
 | Controlar a existência ou aptidão jurídica do suporte da restrição | Identifique a premissa que carece de suporte e por que isso afeta o requisito legal; não confunda falta de cópia no acervo recebido com inexistência de prova nos autos. |
 | Escolher qual testemunha diz a verdade ou refazer a dinâmica controvertida | Explicite o obstáculo cognitivo e a via própria. Depoimentos transcritos não deixam de ser versões controvertidas apenas porque constam de documento. |

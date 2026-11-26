@@ -1,6 +1,6 @@
 # Guia de início
 
-Este guia é para quem acabou de instalar o plugin Trilha Criminal. Leva cinco minutos.
+Este guia é para quem acabou de instalar o plugin IA Trilha Criminal. Leva cinco minutos.
 
 ## O que o plugin faz
 
@@ -49,6 +49,6 @@ Os documentos que você envia são tratados como fonte do caso. O método proíb
 - **A conta veio sem memória de cálculo:** a habilidade de cálculos não entrou. Chame-a pelo nome, `/trilha-criminal-calculos-penais`, e repita o pedido.
 - **A entrega veio longa demais:** peça o recorte. "Só o capítulo da dosimetria."
 - **Um artigo ou julgado parece errado:** peça a fonte e a data de conferência. Se não houver, trate como não conferido.
-- **A versão está desatualizada:** sincronize o marketplace na tela de plugins e abra uma conversa nova.
+- **A versão está desatualizada:** confira se a atualização automática do marketplace está ligada, ou peça a atualização na hora (no Claude, "Verificar atualizações" na tela de plugins), e abra uma conversa nova.
 
 Histórico de versões em [CHANGELOG.md](CHANGELOG.md). Condições de uso em [LICENSE.md](LICENSE.md).

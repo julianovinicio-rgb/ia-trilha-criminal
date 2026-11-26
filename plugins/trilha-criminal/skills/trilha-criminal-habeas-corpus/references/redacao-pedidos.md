@@ -2,16 +2,27 @@
 
 ## Estrutura de referência
 
-1. Endereçamento, identificação e espécie da medida.
-2. Apresentação objetiva do constrangimento e da urgência.
-3. Cabimento, competência, prevenção e obstáculos pertinentes.
-4. Síntese processual documentada.
-5. **DO CONSTRANGIMENTO ILEGAL**, como núcleo do mérito.
-6. Fundamentação específica da liminar.
-7. Pedidos principais, subsidiários e providências de cumprimento.
-8. Documentos indispensáveis, com rol de documentos anexos depois das assinaturas, conforme [Instrução documental](#instrução-documental).
+1. Endereçamento.
+2. Cabeçalho de identificação: paciente com a situação de liberdade entre parênteses (preso; em liberdade, sujeito a cautelares diversas; solto com mandado pendente), autoridade coatora, processo de origem, processo em que a medida foi imposta (se diverso), prevenção pretendida e HCs ou recursos relacionados no mesmo tribunal.
+3. Preâmbulo em três blocos, nesta ordem fixa, antes do tópico 1. É o esqueleto obrigatório de todo HC:
 
-Adapte a ordem à compreensão do caso; não imponha capítulos sem função. O tópico padrão pode receber complemento que expresse a ilegalidade demonstrável. Se houver questões distintas, use subtópicos específicos, sem repetir o mesmo argumento sob vários títulos. Em HC contra omissão, identifique e documente a omissão; não invente decisão para preencher o padrão.
+   a) **Impetrantes e fundamento.** Parágrafo próprio, com os nomes dos impetrantes em negrito: "**[NOME DO ADVOGADO]**, advogado inscrito na OAB/[UF] sob o nº [número], e **[NOME DO ADVOGADO]**, advogado inscrito na OAB/[UF] sob o nº [número], com escritório profissional indicado no rodapé, onde recebem intimações, vêm, respeitosamente, com fundamento no art. 5º, LXVIII, da Constituição Federal e nos arts. 647 e seguintes do Código de Processo Penal, impetrar". O parágrafo termina em "impetrar". Ajuste número e gênero ao caso. Nome e inscrição vêm do usuário ou da procuração; se faltarem, use `[CONFIRMAR: ...]`. Mantenha "indicado no rodapé" quando a peça for para papel timbrado com endereço; sem timbrado, escreva no parágrafo o endereço profissional informado.
+
+   b) **Título centralizado.** "HABEAS CORPUS COM PEDIDO LIMINAR", ou "HABEAS CORPUS" se não houver liminar.
+
+   c) **Paciente, situação e ato coator.** Parágrafo que começa com "em favor de", com o nome do paciente em negrito, seguido da qualificação disponível nos documentos (nacionalidade, data de nascimento, RG, CPF, filiação, profissão, endereço), da situação atual de liberdade ("atualmente preso preventivamente na [unidade]" ou "atualmente em liberdade e sujeito a medidas cautelares diversas da prisão") e do ato coator identificado: "contra a decisão do [juízo] que, em [data], [conteúdo do ato] ([processo], [identificador do ato]), pelas razões a seguir expostas."
+
+   A qualificação vem dos documentos dos autos (procuração, termo de compromisso, auto de qualificação, documento de identidade). Dado ausente é omitido, nunca completado por suposição. Se dois documentos divergirem, por exemplo no número do endereço, use o dado que tiver respaldo em mais de um documento oficial e registre a divergência na nota ao advogado. Não basta apontar "o Juízo" como autoridade coatora: o ato coator vem com data e identificador do sistema, conforme [Localização de documentos](localizacao-de-documentos.md).
+4. **1. Síntese da impetração**: em poucos parágrafos, a restrição atual, as teses centrais e os documentos de que se extraem. Fecho no formato "É contra essa decisão, que [vício central], que se impetra a presente ordem." A síntese é argumentativa; não é cronologia.
+5. **2. Cabimento, competência e ausência de supressão de instância**: via, competência, prevenção com base regimental, pedido formulado e negado na origem (com Docs.), obstáculos reais (recurso próprio pendente, HC anterior, Súmula 691) e prova pré-constituída.
+6. **3. Histórico processual**: cronologia documentada, com data, identificador e Doc. de cada ato.
+7. **4. DO CONSTRANGIMENTO ILEGAL**: pode abrir com a transcrição do dispositivo que fixa o requisito (art. 312 para preventiva; art. 282, I e § 5º, e art. 319 para cautelares diversas) e uma frase que antecipa quais requisitos faltam. Subtópicos por fundamento autônomo, depois o subsidiário.
+8. **5. Do pedido liminar**, com a estrutura prevista em [Liminar](#liminar): probabilidade, perigo e reversibilidade.
+9. **6. Dos pedidos**, seguidos do fecho com data, assinaturas e rol de documentos anexos, conforme [Instrução documental](#instrução-documental).
+
+Adapte a ordem à compreensão do caso; não imponha capítulos sem função. O cabeçalho e o preâmbulo em três blocos não entram nessa adaptação: valem para todo HC, salvo instrução expressa do usuário. O tópico padrão pode receber complemento que expresse a ilegalidade demonstrável. Se houver questões distintas, use subtópicos específicos, sem repetir o mesmo argumento sob vários títulos. Em HC contra omissão, identifique e documente a omissão; não invente decisão para preencher o padrão.
+
+Date a peça com a data da revisão final, e não com "data do protocolo". Se a minuta ficar parada antes do protocolo, atualize a data e reabra o andamento, conforme [Minuta parada antes do protocolo](cronologia-supervenientes.md#minuta-parada-antes-do-protocolo).
 
 No mérito, aplique [Confronto literal](confronto-literal.md): trechos judiciais em itálico, premissas, documentação, resposta e consequência. A explicação jurídica deve servir ao caso. Evite história do instituto, enumeração decorativa de garantias e longas ementas.
 
@@ -64,13 +75,26 @@ Escolha relaxamento, revogação, liberdade provisória, substituição, domicil
 
 O pedido de providência de ofício não substitui a análise de competência e admissibilidade. Na extensão a corréu, explicite identidade relevante e diferenças pessoais. Vincule cada pedido a fundamento e documento.
 
-A requisição de informações não é obrigatória. Quando a impetração já contiver o ato coator e os documentos necessários, ou quando informações anteriores tiverem introduzido premissa contestada, avalie pedir a dispensa com base no art. 662 do CPP, sabendo que a decisão cabe ao relator. Não peça dispensa da vista ao Ministério Público, assegurada nos tribunais pelo Decreto-Lei nº 552/1969, conferido na execução. A apreciação da liminar não depende das informações, e o pedido não deve sugerir o contrário.
+A requisição de informações não é obrigatória. Quando a impetração já contiver o ato coator e os documentos necessários, ou quando informações anteriores tiverem introduzido premissa contestada, avalie pedir a dispensa com base no art. 662 do CPP, sabendo que a decisão cabe ao relator. Não peça dispensa da vista ao Ministério Público, assegurada nos tribunais pelo Decreto-Lei nº 552/1969, conferido na execução. A apreciação da liminar não depende das informações, e o pedido não deve sugerir o contrário. Ao pedir a dispensa, ofereça a alternativa: "ou, se assim não entender o Relator, a fixação de prazo breve para que sejam prestadas". Cite também o dispositivo regimental que torna a requisição facultativa, quando houver.
+
+**Sustentação oral.** Inclua, como regra, o pedido de intimação prévia dos impetrantes da data da sessão de julgamento, para fins de sustentação oral, depois de conferir no regimento o cabimento na classe, conforme [Sustentação oral](sustentacao-oral.md).
+
+**Tramitação prioritária.** Peça apenas para paciente preso ou em situação legal de prioridade. Não peça por hábito.
 
 A ordem pode exigir soltura, cessação de restrição parcial, recolhimento de mandado, anulação, trancamento ou declaração com consequência concreta. Escolha o instrumento de cumprimento pelo efeito necessário; salvo-conduto não é providência obrigatória para todo pedido preventivo. Para ordem coletiva ou aplicação individual de ordem existente, use [Tutela coletiva](tutela-coletiva.md).
 
 Confira os pedidos principal, liminar e subsidiários por uma sequência de cumprimento: **vício e suporte próprios → providência requerida → efeito sobre a liberdade → responsável e condição de execução → resposta a impedimento operacional**. Não inclua restrições sem utilidade nem pressuponha equipamento ou serviço disponível.
 
-Se pedir cassação e novo exame, demonstre o vício que justifica cassar; falta de elementos para conceder a substituição não é fundamento autônomo para invalidar a decisão. Explicite o tratamento da custódia pretendido no intervalo, o prazo solicitado e sua justificativa, sem apresentar prazo sugerido como legal nem presumir soltura automática. Quando a liberdade interina não estiver sustentada, registre esse limite e avalie a utilidade real do pedido, em vez de encobri-lo com a expressão “reexame urgente”.
+**Escada de subsidiários em cautelares diversas.** Ordene do mais amplo ao mais restrito, cada degrau com fundamento próprio no corpo da peça:
+
+1. revogação de todas as medidas;
+2. revogação da restrição mais gravosa, mantida a menos gravosa (por exemplo, revoga-se a proibição de sair da comarca e mantém-se o comparecimento, a ser cumprido onde o paciente residir);
+3. substituição por dever de comunicação com parâmetro objetivo (o art. 328 do CPP, que exige do afiançado comunicar ausência superior a 8 dias, é parâmetro legal útil, conferido na execução);
+4. no mínimo, a providência específica que motivou o pedido (por exemplo, autorização para o destino indicado, sem nova autorização a cada viagem).
+
+O último degrau deve coincidir com o que o MP já admitiu ou com o mínimo que a própria decisão reconheceu. Aplique a cada degrau o teste de cumprimento de [Revisão e entrega](revisao-entrega.md): concedido, a restrição remanescente esvazia o resultado? Confronte a escada com os pedidos de peças paralelas, conforme [Cabimento e admissibilidade](cabimento-admissibilidade.md).
+
+Antes de pedir cassação com novo exame, verifique se o vício leva logicamente à revogação. Se o tribunal não pode suprir a fundamentação omitida, a consequência a sustentar é o afastamento da medida, e não a devolução da questão ao juízo, com apoio pesquisado na execução. Com recurso pendente, confirme ainda qual juízo faria o novo exame. Se pedir cassação e novo exame, demonstre o vício que justifica cassar; falta de elementos para conceder a substituição não é fundamento autônomo para invalidar a decisão. Explicite o tratamento da custódia pretendido no intervalo, o prazo solicitado e sua justificativa, sem apresentar prazo sugerido como legal nem presumir soltura automática. Quando a liberdade interina não estiver sustentada, registre esse limite e avalie a utilidade real do pedido, em vez de encobri-lo com a expressão “reexame urgente”.
 
 Se a execução depender de monitoração, acolhimento ou outra condição incerta, delimite o que deve ser confirmado, por quem, em que sequência e qual providência judicial se requer se a condição faltar. Não deixe a prisão condicionada indefinidamente a uma diligência administrativa nem formule liberação automática sem justificar a proteção alternativa. A resposta possível depende das provas e do fundamento do caso.
 

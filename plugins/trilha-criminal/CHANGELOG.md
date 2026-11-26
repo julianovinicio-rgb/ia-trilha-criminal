@@ -2,6 +2,43 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.9.0
+
+Lições de dois habeas corpus reais redigidos com o plugin em novembro de 2026: um de revogação de cautelares diversas da prisão e um contra manutenção de preventiva em processo do júri. Fatos, nomes e números dos casos não entram no pacote.
+
+### Habeas Corpus
+
+- Estrutura de referência reescrita em `redacao-pedidos.md`: cabeçalho de identificação e preâmbulo fixo em três blocos (impetrantes e fundamento terminando em "impetrar", título, parágrafo "em favor de" com paciente qualificado, situação de liberdade e ato coator com data e identificador), seguidos de síntese argumentativa, cabimento, histórico processual, DO CONSTRANGIMENTO ILEGAL, liminar e pedidos. Motivo: as minutas saíam sem padrão de abertura e misturavam síntese com cronologia.
+- Peça datada com a data da revisão final. Nova seção "Minuta parada antes do protocolo" em `cronologia-supervenientes.md`: confirmar se houve protocolo, levantar os atos posteriores, ler os despachos do relator do recurso pendente e atualizar cabimento, perigo da demora e pedidos. Motivo: uma minuta antiga foi revisada sem que se soubesse se tinha sido protocolada, e outra peça da defesa a dava como impetrada.
+- `cabimento-admissibilidade.md`: nova linha para HC sobre prisão ou cautelar com apelação pendente que contém o mesmo pedido, e regra de coerência entre pedidos de peças paralelas.
+- `confronto-literal.md`: nova seção sobre ato coator com fundamento formal (documento não juntado, preclusão, inércia) e sobre decisão que reproduz o texto de decisão anterior.
+- `merito-cautelar.md`: item 8 do roteiro de cautelares diversas, sobre preclusão e atraso da defesa, e nova seção "Preventiva mantida em revisão ou indeferimento de revogação" (confissão extrajudicial retratada, elementos excludentes, gravidade do grupo, reiteração, HC anterior de corréu e cautelares alternativas afastadas por fórmula genérica).
+- `cognicao-prova.md`: quadro de horários extraído de documentos oficiais tratado como leitura, com a fonte de cada linha.
+- `triagem-documentos.md`: cuidados de precisão para períodos, conduta do paciente e dado que não está nos autos.
+- `revisao-entrega.md`: o item do checklist sobre exagero do texto legal passa a exigir a preservação do verbo do dispositivo; novos itens sobre a premissa do parecer do Ministério Público, a conferência de paciente e relator dos HCs usados para prevenção, a coerência com peças paralelas e a minuta parada.
+- `regimentos-tribunais.md`: ficha do TJAM com o conteúdo dos arts. 24 e 81 a 83 na consolidação lida em 16/11/2026, modo de levantar a prevenção e aviso sobre PDF de regimento que recusa busca automática.
+- `redacao-pedidos.md`, pedidos: alternativa de prazo breve ao pedir a dispensa de informações, pedido de intimação para sustentação oral, tramitação prioritária só quando houver causa, escada de subsidiários em cautelares diversas e teste da consequência antes de pedir cassação com novo exame.
+- `pistas-de-pesquisa.md`: nova formação de 16/11/2026, com cinco julgados lidos em fontes secundárias, três julgados citados em peça e não localizados, e uma lacuna de pesquisa registrada.
+- `SKILL.md`: remissões ao preâmbulo fixo e à rotina de minuta parada. A descrição da habilidade não mudou.
+
+### Distribuição
+
+- O plugin passa a aparecer como **IA Trilha Criminal** (`displayName`). O identificador `trilha-criminal` e os nomes das habilidades não mudaram, para não quebrar instalações nem a forma de chamar cada habilidade.
+- Guia de início: orientação sobre a atualização automática.
+
+### Todas as habilidades
+
+- `nucleo-comum.md`: súmula ou julgado só entra na entrega se foi aberto no portal do tribunal na execução; site jurídico privado, blog e resumo de busca servem para localizar; o que não foi aberto vem marcado como não conferido, ou não entra. Motivo: achado registrado na execução dos testes da 0.8.3, em que julgados foram citados a partir de sites privados. A regra já existia em Cálculos Penais desde a 0.8.1.
+- `localizacao-de-documentos.md`: a data do ato é a do texto assinado, distinta da data da movimentação no sistema.
+- Recurso de Apelação (`pena-e-pedidos.md`) e Peças Defensivas (`pecas/liberdade-e-cautelares.md`): pedidos sobre a mesma restrição em peças paralelas devem ser coerentes; em Peças Defensivas, cumprir no prazo a diligência e identificar a que pedido ela se refere.
+
+### Comportamento e limites
+
+- Mudança de comportamento: o Habeas Corpus tende a reabrir o andamento antes de revisar minuta antiga, a abrir toda minuta pelo preâmbulo fixo e a pedir intimação para sustentação oral por padrão. Todas as habilidades tendem a marcar mais julgados como não conferidos quando o portal do tribunal não abrir.
+- Os julgados da nova formação de pistas não tiveram o inteiro teor aberto. A existência da Lei 15.272/2025 e os dados de quatro deles foram confirmados só em fontes secundárias, em busca de 16/11/2026.
+- Testado em 16/11/2026 fora do claude.ai: os casos fictícios H6.6, H6.7 e H6.8 rodaram uma vez cada, em agentes isolados que leram os arquivos desta versão, com o modelo Opus e sem acesso à internet. Os três atenderam ao esperado. O acionamento da habilidade na conta e a pesquisa com internet não foram testados nesta versão.
+- Fora do pacote: `testes/casos-de-teste.md` ganha os casos H6.6 a H6.9, e `testes/materiais/` guarda os documentos fictícios usados.
+
 ## 0.8.3
 
 Ajuste de acionamento. Regras, referências e script não mudaram; só as descrições.

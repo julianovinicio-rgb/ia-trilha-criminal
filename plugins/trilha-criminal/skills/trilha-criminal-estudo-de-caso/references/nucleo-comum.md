@@ -16,7 +16,7 @@ Este arquivo reúne as regras que valem de forma idêntica em todas as habilidad
 - Aspas exigem trecho literal conferido no original. Relatório, resumo, OCR não conferido e transcrição automática orientam a leitura, mas não comprovam literalidade.
 - Ausência do documento no material recebido, falta de acesso e inexistência demonstrada do ato são situações diferentes e são ditas como tais.
 - Artigo de lei segue [Conferência legislativa](conferencia-legislativa.md). Indicação de documento dos autos segue [Localização de documentos](localizacao-de-documentos.md).
-- Jurisprudência é pesquisada e conferida na própria execução, em fonte oficial. Pista de pesquisa registrada nesta habilidade não é precedente verificado.
+- Jurisprudência é pesquisada e conferida na própria execução, em fonte oficial. Súmula ou julgado só entra na entrega se foi aberto no portal do tribunal nesta execução, com classe, número e data. Site jurídico privado, blog e resumo de busca servem para localizar, não para afirmar: o que não foi aberto no portal vem marcado como não conferido, ou não entra. Pista de pesquisa registrada nesta habilidade não é precedente verificado.
 - Nenhuma conclusão tem certeza superior à base examinada.
 
 ## Peça e nota ao advogado

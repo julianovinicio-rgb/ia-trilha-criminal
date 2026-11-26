@@ -24,3 +24,17 @@ Consulta limitada às mudanças introduzidas a partir da [Leitura crítica de Ba
 - [STJ, registro 2025/0391893-6, publicação em 17/08/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=17%2F08%2F2026&num_registro=202503918936), trechos das pp. 9-11 do PDF: o art. 647-A não afastou os limites de competência. Não usar esse recorte como estudo integral do processo ou como precedente aderente a qualquer cadeia recursal.
 
 Busca dirigida ao STJ sobre preponderância e Badaró não confirmou um standard geral do HC: resultados sobre pronúncia e prova da condenação respondem a perguntas diferentes. Ausência de confirmação nesta pesquisa não demonstra inexistência de apoio. Consulte [Pesquisa atualizada](pesquisa-atualizada.md) antes de usar qualquer dessas proposições no caso concreto.
+
+## Formação de 16/11/2026
+
+Entradas levantadas em dois trabalhos de HC e lidas em fontes secundárias (notícias, informativos e resumos), sem abertura do inteiro teor no portal do tribunal. Nenhuma é precedente verificado: abra o acórdão oficial antes de citar.
+
+- RHC 212.836/RS, STJ, Sexta Turma, j. 20/03/2025 (Informativo 847): art. 387, § 1º, do CPP; omissão da sentença sobre prisão ou outra medida cautelar; no julgamento do HC, o tribunal não acrescenta fundamentos para suprir a decisão. Confira no inteiro teor se a sentença era omissa ou apenas insuficiente e qual foi a consequência dada.
+- HC 482.549/SP, STJ, Terceira Seção, j. 11/03/2020 (Informativo 669): HC concomitante a recurso próprio só é examinado se destinado à tutela direta da liberdade de locomoção ou se trouxer pedido diverso do recurso que reflita nela. No caso julgado, o HC não foi conhecido; confira o alcance antes de invocar a exceção.
+- HC 147.426/AP e HC 147.303/AP, STF, Segunda Turma, j. 18/12/2017 (Informativo 888): cabimento de HC contra cautelares diversas da prisão.
+- RHC 36.443/SP, STJ, Sexta Turma, j. 16/09/2014: cautelares do art. 319, I e IV, exigem fundamentação concreta. Consta do Jurisprudência em Teses.
+- AREsp 2.123.334/MG, STJ, Terceira Seção, j. 20/06/2024: teses sobre admissibilidade e valor da confissão extrajudicial. Trata da condenação; fontes secundárias indicam que as teses foram limitadas a fatos posteriores ao julgamento. Uso em cautelar só por analogia expressa.
+
+Citados em peça anterior e ainda não localizados em busca: HC 469.549/SP e HC 530.230/RJ (antecedentes antigos e contemporaneidade) e RHC 215.502/MG (vedação de o tribunal agregar fundamentos). A busca de 16/11/2026 encontrou apenas menção ao HC 530.230/RJ, Sexta Turma, j. 26/11/2019, como precedente citado em outro julgado. Não use nenhum dos três sem abrir o inteiro teor.
+
+Lacuna registrada: a busca de 16/11/2026 não encontrou precedente criminal específico afirmando que o pedido de revogação de cautelar pessoal não se sujeita a preclusão. O argumento se sustenta no art. 282, § 5º, do CPP.

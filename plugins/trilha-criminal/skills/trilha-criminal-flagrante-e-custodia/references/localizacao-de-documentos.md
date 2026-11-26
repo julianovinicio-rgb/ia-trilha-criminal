@@ -29,4 +29,6 @@ Confira o identificador no original antes de usá-lo. Identificador herdado de r
 
 Distinga página do arquivo, folha dos autos e página impressa de livro ou acórdão. Em Word sem paginação estável, use seção e trecho identificável. Em mídia, atribua minutagem apenas a registro efetivamente localizado.
 
+A data do ato é a do texto assinado. A data da movimentação no sistema pode ser outra. Quando diferirem e a diferença importar, indique as duas: "decisão datada de [data], lançada em [data] ([identificador])".
+
 Se o identificador não puder ser confirmado, declare a pendência no ponto afetado e não o complete por suposição.

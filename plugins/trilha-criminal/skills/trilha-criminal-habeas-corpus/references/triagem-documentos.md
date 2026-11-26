@@ -28,6 +28,13 @@ Confira visualmente páginas com OCR duvidoso, números, datas, negativas, aspas
 
 Todo fato usado na peça deve indicar processo, movimentação e documento de origem, conferidos nos autos na execução atual. Narrativa vinda de rascunho, petição anterior, modelo ou relato do cliente não é fonte: é pista a confirmar. Número de movimentação citado sem o número do processo a que pertence é sinal de alerta; confirme que a movimentação existe naquele processo e tem o conteúdo afirmado. Se o fato não for localizado, não o use e registre a pendência.
 
+Cuidados de precisão:
+
+- Períodos ("há mais de dois anos", "cumpre desde") são calculados a partir do marco documentado do cumprimento (intimação, termo de compromisso), e não da data da decisão que impôs a medida, salvo se for essa a afirmação.
+- Afirmação sobre conduta do paciente ("retornou pontualmente", "compareceu a todos os atos") exige documento que a registre. Autorização de viagem não prova que a viagem ocorreu nem que houve retorno.
+- Dado geográfico, distância ou fato notório que não esteja nos autos só entra com fonte; na falta dela, retire.
+- A data do ato é a do texto assinado, que pode diferir da data da movimentação no sistema, conforme [Localização de documentos](localizacao-de-documentos.md).
+
 ## Contexto anterior, projetos e versões
 
 Ao aproveitar conversas, relatórios ou versões de peças, registre uma tabela curta dos materiais que influenciem a estratégia:

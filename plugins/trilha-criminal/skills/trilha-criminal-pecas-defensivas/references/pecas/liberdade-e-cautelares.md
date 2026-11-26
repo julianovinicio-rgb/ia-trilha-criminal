@@ -26,4 +26,6 @@ Localize períodos de paralisação e suas causas documentadas. Examine complexi
 
 Especifique a decisão pretendida, a urgência e as providências necessárias à efetivação. Confira se subsistem outras ordens de prisão antes de afirmar que o deferimento produzirá soltura imediata. Fundamente eventual pedido liminar separadamente.
 
+Se o juízo condicionar o exame a diligência ou documento, identifique a que pedido a exigência se refere e cumpra-a no prazo, para que eventual atraso não alcance o pedido principal. Pedidos sobre a mesma restrição em peças paralelas (pedido ao juízo, razões de recurso, habeas corpus) devem ser coerentes; divergência intencional é explicada na nota ao advogado.
+
 Fontes de conferência: [CPP, regime de cautelares](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm) e [Lei da prisão temporária](https://www.planalto.gov.br/ccivil_03/leis/l7960.htm). Confira redação vigente, legislação especial e decisões de controle de constitucionalidade aplicáveis antes de citar requisitos ou prazos.

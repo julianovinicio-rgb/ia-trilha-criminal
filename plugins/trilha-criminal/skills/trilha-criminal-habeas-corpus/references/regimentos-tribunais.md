@@ -12,6 +12,8 @@ Identifique o tribunal competente pelo caso, seja Tribunal de Justiça, Tribunal
 
 Não transporte número de artigo, prazo ou regra do regimento de um tribunal para outro. Levante HCs e recursos anteriores relacionados, relator, órgão e desfecho, sem presumir prevenção apenas porque o paciente já teve processo no tribunal. Cabimento e prazo de impugnação contra indeferimento de liminar em HC variam entre tribunais e exigem verificação na disciplina e na jurisprudência locais. Se o regimento não puder ser obtido, registre a pendência e seu efeito sobre competência, prevenção e prazo.
 
+O PDF do regimento pode recusar busca e download automáticos. Abra-o no navegador e navegue pelas páginas. Registre na nota a data de consolidação declarada pelo próprio documento.
+
 ### Exemplo de ficha: TJAM
 
 O bloco abaixo registra a pesquisa de formação feita para o Tribunal de Justiça do Amazonas e mostra o nível de detalhe esperado. Aplique-o somente a processos desse tribunal, depois de nova conferência.
@@ -21,6 +23,10 @@ Ponto de partida: Resolução 62/2023 e suas alterações, disponíveis no [port
 A versão consolidada localizada na formação da base declara alterações até as Resoluções 22/2024, 54/2024 e 60/2024; esse dado não certifica consolidação até a execução atual. Pesquise alterações posteriores e normas de organização judiciária pertinentes.
 
 No texto-base, o art. 24 trata de prevenção e os arts. 121 a 124 de agravo interno. Leia caput, parágrafos e exceções e confira sua incidência no HC concreto. Levante HCs e recursos anteriores relacionados, relator, órgão e desfecho. Não presuma prevenção apenas porque o paciente já teve qualquer processo no tribunal.
+
+Na consolidação lida em 16/11/2026 pelo portal do TJAM, o art. 24 prevê que o protocolo de recurso torna o relator prevento para recursos subsequentes no mesmo processo ou em processo conexo; o § 1º estende a regra aos incidentes posteriores originados do recurso ou da ação principal; o § 2º a aplica ainda que o recurso ou a ação de competência originária tenha sido inadmitido, julgado prejudicado ou extinto. Os arts. 81 a 83 tratam do HC: distribuição com preferência; o relator indefere a inicial, decide a liminar, "poderá" requisitar informações em até 5 dias e dá vista ao MP por 5 dias; julgamento na primeira sessão após a instrução. É retrato datado dessa leitura: confira o texto vigente a cada execução antes de citar.
+
+Para levantar a prevenção, abra a árvore processual do processo de origem no Projudi e confira, em cada HC ou recurso, relator, órgão, data de distribuição e a aba de partes. Cite na peça o art. 24 e os feitos que fixam a prevenção.
 
 Cabimento e prazo de impugnação contra indeferimento de liminar em HC exigem verificação específica da disciplina e jurisprudência locais; a pesquisa de formação não resolveu universalmente essa questão. Não converta essa lacuna em afirmação positiva ou negativa de cabimento.
 

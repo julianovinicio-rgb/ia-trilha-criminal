@@ -31,7 +31,11 @@ Checklist obrigatório antes da entrega:
 - [ ] A posição do MP está descrita exatamente como no parecer, sem ampliar a concordância (deslocamento temporário não é deslocamento livre)?
 - [ ] Cada precedente foi usado dentro do seu alcance? Se o caso tratava de hipótese diversa (por exemplo, preventiva aplicada a cautelar diversa), a distinção ou a extensão está explicitada?
 - [ ] O fundamento do ato coator foi enfrentado, mesmo que formal? Se a decisão não examinou o mérito, isso foi usado a favor da tese?
-- [ ] Afirmações sobre a lei não exageram o texto do dispositivo?
+- [ ] Afirmações sobre a lei não exageram o texto do dispositivo? O verbo foi preservado: "poderá" não vira "impõe" ou "determina" (por exemplo, art. 282, § 5º, do CPP). Necessidade "atual" não é atribuída a inciso que não usa a palavra; a contemporaneidade se sustenta em dispositivo ou precedente que a exija.
+- [ ] A premissa do parecer do MP ou da decisão foi conferida com a sentença? Parecer que invoca gravidade de crime do qual o paciente foi absolvido é ponto a explorar, com transcrição literal da premissa.
+- [ ] Cada HC anterior usado para prevenção teve paciente e relator conferidos nos dados de partes do sistema? HC de outro paciente, oriundo do mesmo processo de origem, pode gerar prevenção, mas a peça não deve sugerir que era do paciente.
+- [ ] Os pedidos do HC são coerentes com os de peças paralelas sobre a mesma restrição (razões de apelação, memoriais)? Divergência intencional está explicada na nota.
+- [ ] A minuta foi elaborada antes e não há comprovante de protocolo? O andamento foi reaberto e a peça está datada com a data desta revisão, conforme [Cronologia e decisões supervenientes](cronologia-supervenientes.md).
 - [ ] Os pedidos subsidiários são executáveis na prática? Teste o cenário: concedido o subsidiário, a restrição remanescente esvazia o resultado? (Exemplo: revogar a proibição de sair da comarca, mas manter comparecimento na comarca de origem.)
 - [ ] O pedido de mérito confirma a liminar? Há pedido de comunicação imediata ao juízo de origem?
 - [ ] Toda transcrição tem a referência de origem e o "Doc." correspondente?

@@ -46,6 +46,15 @@ Não transponha precedente sobre conversão de flagrante de ofício para manuten
 
 Examine reavaliação periódica e dever de fundamentação à luz da interpretação vigente. Não prometa soltura automática pelo simples transcurso de noventa dias. Diferencie ausência de revisão, decisão formal e efetivo reexame dos fundamentos.
 
+## Preventiva mantida em revisão ou indeferimento de revogação
+
+- Indício de autoria apoiado em confissão extrajudicial retratada: confronte a narrativa com registros objetivos da própria investigação (ponto eletrônico, videomonitoramento, relatório de telefonia), em quadro cronológico só com documentos oficiais e respectivas fontes. Apresente o confronto como leitura direta de horários e registros, e não como valoração de prova, conforme [Cognição e prova](cognicao-prova.md). A orientação da Terceira Seção do STJ sobre o valor da confissão extrajudicial trata da condenação; use-a por analogia expressa, explicando a extensão, e confira na execução o alcance temporal das teses.
+- Elementos mutuamente excludentes (a decisão situa o paciente em um papel, a denúncia em outro): exponha a incompatibilidade com transcrição dos dois textos. Se o MP admitir que a divergência "exige esclarecimento", use essa admissão contra a suficiência do indício.
+- Gravidade do grupo transferida ao paciente: separe a conduta atribuída a ele da conduta dos executores. Confira na execução a redação vigente do art. 312, §§ 3º e 4º, do CPP, alterada pela Lei 15.272/2025, sobre modus operandi e vedação de gravidade abstrata.
+- Reiteração: exija identificação do processo em curso alegado. Antecedente antigo e único não demonstra risco atual (art. 312, § 2º, contemporaneidade). Ressalve expressamente a hipótese de habitualidade, recidiva específica ou crimes violentos reiterados quando o precedente usado a ressalvar.
+- HC anterior de corréu: identifique o fundamento específico que levou à denegação para ele (por exemplo, condição de foragido) e demonstre que não existe quanto ao paciente. Aproveite reconhecimentos favoráveis do acórdão, como o de fundamentação em bloco insuficiente, com transcrição literal.
+- Cautelares alternativas: se a defesa ofereceu medidas concretas e a decisão as afastou com fórmula genérica, enfrente-a com o art. 282, § 6º, do CPP, observada a orientação sobre a enumeração das medidas tratada em [Substituição por cautelares](#substituição-por-cautelares-demonstração-e-execução).
+
 ## Sentença e prisão
 
 Separe o capítulo cautelar do mérito condenatório. Para quem respondeu solto, examine o que mudou e quais fatos sustentariam a nova restrição. Para quem já estava preso, examine persistência das razões e conteúdo da manutenção. A pena elevada, isoladamente descrita, não substitui o exame do fundamento efetivamente utilizado.
@@ -61,6 +70,7 @@ Não confunda preventiva, execução da pena e execução decorrente de regime j
 5. Verifique se alguma decisão posterior examinou a necessidade atual ou apenas negou por questão formal.
 6. Levante o histórico de cumprimento (termos de comparecimento, autorizações de viagem, manifestação do MP) e o ônus concreto da medida (autorizações tardias, viagens perdidas).
 7. Confira se o termo de compromisso assinado pelo réu coincide com a decisão (por exemplo, periodicidade do comparecimento). Divergência é ponto de atenção; o pedido segue a decisão.
+8. Preclusão e atraso da defesa. Decisão sobre medida cautelar pessoal é provisória: o art. 282, § 5º, do CPP permite revogar e voltar a decretar conforme mudem as razões. Atraso no cumprimento de diligência não impede novo exame da necessidade da medida. Se o advogado confirmar que a manifestação foi intempestiva, não sustente a tempestividade. Limite o efeito do atraso ao pedido a que a diligência se referia e mantenha a tese principal fundada na falta de necessidade atual. Antes de afirmar que um ato da defesa foi tempestivo, confira intimação e prazo; sem essa conferência, não afirme.
 
 ## Outras espécies e teses
 

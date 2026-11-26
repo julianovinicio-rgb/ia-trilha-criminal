@@ -13,7 +13,7 @@ Em toda execução, pesquise o entendimento atual sobre os temas pertinentes ao 
 
 Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
 
-Nas minutas de HC, adote **DO CONSTRANGIMENTO ILEGAL** como tópico central do mérito. Pode complementar o título com a ilegalidade demonstrável e distribuir questões distintas em subtópicos. Não crie um capítulo genérico para repetir argumentos desenvolvidos em outro lugar. Em revisão parcial, respeite a estrutura que o usuário mandou preservar e sugira a adaptação separadamente.
+Nas minutas de HC, adote **DO CONSTRANGIMENTO ILEGAL** como tópico central do mérito. Pode complementar o título com a ilegalidade demonstrável e distribuir questões distintas em subtópicos. Não crie um capítulo genérico para repetir argumentos desenvolvidos em outro lugar. Toda minuta de HC abre com o cabeçalho de identificação e o preâmbulo em três blocos (impetrantes e fundamento, título, paciente com situação de liberdade e ato coator) de [Redação e pedidos](references/redacao-pedidos.md). Em revisão parcial, respeite a estrutura que o usuário mandou preservar e sugira a adaptação separadamente.
 
 Ao enfrentar fundamento de decisão, reproduza o trecho literal pertinente em *itálico*, com origem e localização conferidas, e desenvolva a resposta a partir dele. Aspas exigem original; texto de modelo, relatório ou OCR não conferido não comprova literalidade. A pontuação da citação é intocável. Consulte [Confronto literal](references/confronto-literal.md).
 
@@ -36,11 +36,11 @@ Não transforme redação em protocolo, envio a terceiros ou alteração de docu
 | Referência | Quando ler |
 |---|---|
 | [Triagem e documentos](references/triagem-documentos.md) | Início de caso, novo acervo ou atualização de sua cobertura. |
-| [Cabimento e admissibilidade](references/cabimento-admissibilidade.md) | Escolha ou revisão da via, da competência e dos obstáculos ao conhecimento. |
+| [Cabimento e admissibilidade](references/cabimento-admissibilidade.md) | Escolha ou revisão da via, da competência e dos obstáculos ao conhecimento, inclusive HC concomitante a recurso com o mesmo pedido e coerência entre peças paralelas. |
 | [Cognição e prova](references/cognicao-prova.md) | Controvérsia documental, revaloração, trancamento, ônus probatório ou informações da autoridade coatora. |
 | [Regimentos dos tribunais](references/regimentos-tribunais.md) | Atuação em tribunal, prevenção, plantão, recurso interno ou julgamento. |
 | [Mérito e cautelares](references/merito-cautelar.md) | Seleção das teses de liberdade, trancamento, nulidade, domiciliar, extensão ou execução. |
-| [Cronologia e decisões supervenientes](references/cronologia-supervenientes.md) | Duração da prisão, prazo recursal, novo título, sentença ou acórdão posterior. |
+| [Cronologia e decisões supervenientes](references/cronologia-supervenientes.md) | Duração da prisão, prazo recursal, novo título, sentença ou acórdão posterior, e minuta antiga ainda sem comprovante de protocolo. |
 | [Redação e pedidos](references/redacao-pedidos.md) | Estrutura, linguagem, liminar, subsidiariedade e cumprimento. |
 | [Base e exemplos comentados](references/base-exemplos.md) | Reaproveitamento de doutrina, sugestões de outras ferramentas e modelos. |
 | [Leitura crítica de Badaró](references/base-badaro.md) | Uso das contribuições do capítulo, com páginas, divergências e atualização normativa. |
@@ -58,7 +58,7 @@ Leia apenas os módulos pertinentes; não transforme pedido pontual em auditoria
 ## Fluxo de trabalho
 
 1. Identifique paciente, processo, liberdade atual, restrição, objetivo, urgência, autoridade e último ato examinado. Diferencie ameaça, mandado pendente, prisão cumprida e cautelar diversa.
-2. Leia a decisão impugnada, os atos que ainda sustentam a restrição e os documentos decisivos. Ao receber contexto anterior, registre origem, natureza, cobertura e o que foi confirmado ou superado, conforme [Triagem e documentos](references/triagem-documentos.md). Confira a proveniência dos fatos herdados de peças anteriores da própria defesa. Torne visíveis na entrega as limitações relevantes de acesso e leitura, sem presumir inexistência do fato ou do documento.
+2. Leia a decisão impugnada, os atos que ainda sustentam a restrição e os documentos decisivos. Ao receber contexto anterior, registre origem, natureza, cobertura e o que foi confirmado ou superado, conforme [Triagem e documentos](references/triagem-documentos.md). Confira a proveniência dos fatos herdados de peças anteriores da própria defesa. Se a minuta recebida foi elaborada dias antes e não há comprovante de protocolo, aplique antes de revisar a rotina de minuta parada de [Cronologia e decisões supervenientes](references/cronologia-supervenientes.md). Torne visíveis na entrega as limitações relevantes de acesso e leitura, sem presumir inexistência do fato ou do documento.
 3. Reconstrua pedidos anteriores, HCs, recursos e distribuição. Defina via, competência e prevenção com fundamento atual, sem inferir exaurimento, ciência ou tempestividade.
 4. Pesquise os problemas concretos em fontes oficiais, separando admissibilidade e mérito. Inventarie as teses defensivas relevantes e, para cada uma, registre busca efetiva de apoio favorável, orientação contrária, aplicação ao caso e conclusão, na matriz de [Pesquisa atualizada](references/pesquisa-atualizada.md). Amplie ou reveja a estratégia conforme os resultados, sem exigir que exista precedente favorável. Vincule os dados e proposições usados à passagem de sua fonte, em ficha comum às entregas; uma referência armazenada é pista, não validação vigente.
 5. Mapeie cada fundamento autônomo: passagem literal, suporte judicial, vínculo individual, resposta documental e jurídica, consequência pretendida. Diferencie fato ausente, premissa errada e inferência insuficiente. Havendo controvérsia probatória, identifique a operação necessária e o documento que a permite, conforme [Cognição e prova](references/cognicao-prova.md); nem a existência de documentos torna toda controvérsia cognoscível, nem o rótulo de via estreita dispensa sua análise.

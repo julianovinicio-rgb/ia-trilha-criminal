@@ -43,6 +43,17 @@ Delimite também os efeitos da concessão: trancamento por atipicidade, reconhec
 
 Antes de declarar perda de objeto por soltura ou mudança de título, confira se subsistem cautelares, ameaça ou outro efeito abrangido pelo pedido. Interesse em responsabilizar o coator não mantém automaticamente o objeto liberatório; eventual providência própria deve ser analisada separadamente, se pertinente e autorizada.
 
+## Minuta parada antes do protocolo
+
+Quando a minuta tiver sido elaborada dias ou semanas antes e não houver comprovante de protocolo, antes de revisar:
+
+1. Confirme no sistema do tribunal se a impetração foi feita, por busca no 2º grau pelo nome do paciente e pela árvore processual do processo de origem. Sem acesso ao sistema, peça a confirmação ao advogado e registre a pendência: versão salva no projeto não prova protocolo, e a falta de comprovante não prova que ele não ocorreu.
+2. Levante todos os atos posteriores à data da minuta no processo de origem e nos recursos pendentes: razões protocoladas, despachos do relator, remessas ao MP, publicações.
+3. Leia o inteiro teor de cada despacho do relator do recurso pendente, porque ele pode ter decidido ou deixado de decidir pedido idêntico ao do HC.
+4. Atualize cabimento, perigo da demora e pedidos conforme esses atos, e date a peça com a data da revisão.
+
+Se outra peça da defesa já protocolada mencionar o HC como impetrado ("sem prejuízo do habeas corpus impetrado") e o HC não tiver sido protocolado, informe o advogado. A peça nova não deve repetir a afirmação inexata.
+
 ## Atualização da estratégia
 
 Classifique teses afetadas como mantidas, reforçadas, enfraquecidas, reformuladas ou superadas e explique a fonte que motivou a mudança. Preserve os fundamentos ainda sustentados; não mantenha tese incompatível com o novo documento por fidelidade ao rascunho anterior.
