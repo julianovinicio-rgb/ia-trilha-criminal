@@ -1,10 +1,10 @@
 {
-  "name": "era-criminal",
+  "name": "ia-trilha-criminal",
   "owner": {
     "name": "Juliano Negreiros"
   },
   "metadata": {
-    "description": "Plugins da comunidade Era Criminal para atuação defensiva criminal."
+    "description": "IA Trilha Criminal: método de atuação defensiva criminal da Trilha Criminal, de Juliano Negreiros."
   },
   "plugins": [
     {
