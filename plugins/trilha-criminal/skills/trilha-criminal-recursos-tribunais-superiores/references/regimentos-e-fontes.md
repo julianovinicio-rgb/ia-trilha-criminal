@@ -14,7 +14,7 @@ Os dispositivos legais seguem a [Conferência legislativa](conferencia-legislati
 ## Regimentos internos
 
 - [STJ, portal do Regimento Interno](https://www.stj.jus.br/sites/portalp/Leis-e-normas/Regimento-Interno): use a edição integral disponível e confira as emendas posteriores. Localizadores frequentes: art. 258 para agravo regimental em matéria penal, disciplina do agravo interno, embargos de declaração e embargos de divergência.
-- [STF, portal de transparência](https://www.stf.jus.br/transparencia/), seção Regimento interno, e [consolidação vinculada pelo portal](https://api-atosnormativosprd.azurewebsites.net/api/normativo/apresentacao/consolidado/1737). Localizadores frequentes: art. 317 para agravo regimental e art. 337 para embargos de declaração.
+- STF: Regimento Interno no portal oficial do tribunal (portal.stf.jus.br), na área de legislação e atos normativos, localizado na execução. Os endereços diretos que constavam aqui deixaram de abrir em 26/11/2026 e foram retirados. Localizadores frequentes: art. 317 para agravo regimental e art. 337 para embargos de declaração.
 
 Registre a versão do regimento lida, as emendas abrangidas e a data da consulta. Uma versão intitulada consolidada pode não incorporar alterações posteriores.
 
@@ -24,7 +24,7 @@ Registre a versão do regimento lida, as emendas abrangidas e a data da consulta
 - Súmulas do STJ: página de súmulas no portal do STJ, localizada na execução.
 - Repercussão geral: [regulamentação no portal do STF](https://portal.stf.jus.br/textos/verTexto.asp?pagina=regulamentacao&servico=jurisprudenciaRepercussaoGeral) e base de temas de repercussão geral do STF, localizada na execução.
 - Recursos repetitivos do STJ: base de temas repetitivos no portal de processos do STJ, localizada na execução.
-- Jurisprudência: [pesquisa do STJ](https://scon.stj.jus.br/SCON/) e [pesquisa do STF](https://jurisprudencia.stf.jus.br/).
+- Jurisprudência: [pesquisa do STJ](https://scon.stj.jus.br/SCON/) e [pesquisa do STF](https://jurisprudencia.stf.jus.br/). Em 26/11/2026 as duas bases não entregaram conteúdo a ferramenta automática de leitura; veja as rotas de acesso em [Registro de fontes](registro-de-fontes.md).
 
 Para cada súmula, tema ou precedente usado, registre: tribunal, número, enunciado ou tese conferidos, situação atual, link oficial efetivamente aberto e data da consulta. Ementa, notícia e resultado de busca localizam o documento, mas não substituem a leitura do registro oficial.
 

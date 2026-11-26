@@ -24,6 +24,7 @@ Use [Cabimento e prazos](references/cabimento-e-prazos.md) para esta etapa.
 - Confira a cadeia de procurações e substabelecimentos antes do protocolo de qualquer recurso ao STJ ou ao STF. Falha de representação nessa instância pode levar ao não conhecimento, conforme [Admissibilidade](references/admissibilidade.md).
 - Toda súmula, tema e precedente citado é conferido no site oficial do tribunal na execução. As listas desta skill indicam o que verificar, não o que afirmar.
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência. Regimentos internos são conferidos no portal do respectivo tribunal, conforme [Regimentos e fontes](references/regimentos-e-fontes.md).
+- Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 - Não aplique regras do processo civil aos recursos criminais por hábito, nem afaste o CPC onde ele incide. Para cada regra, indique a fonte que a torna aplicável.
 - Não transporte número de processo, nome de parte, de advogado ou de ministro de casos anteriores. Precedente entra na peça somente depois de pesquisado, lido no inteiro teor ou no registro oficial disponível e comparado com o caso.
 - Não faça protocolo, peticionamento, envio a terceiros ou alteração de documentos. Use pesquisa pública com termos abstratos, sem dados do cliente.
@@ -48,6 +49,7 @@ Estes pontos são regras abstratas, conferidas a cada execução nas fontes indi
 | [Regimentos e fontes](references/regimentos-e-fontes.md) | Localização das normas, regimentos e bases de temas e precedentes |
 | [Sustentação oral](references/sustentacao-oral.md) | Cabimento, tempo, requerimento e roteiro de sustentação no STJ e no STF |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
 | [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |

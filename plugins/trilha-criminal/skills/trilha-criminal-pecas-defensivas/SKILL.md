@@ -38,6 +38,7 @@ Leia apenas o necessário ao trabalho, nos momentos indicados. Um pedido pontual
 | [Pedidos e subsidiariedade](references/pedidos-e-subsidiariedade.md) | Escolha de resultados, diligências, pedidos e alternativas |
 | [Revisão e entrega](references/revisao-e-entrega.md) | Fechamento de qualquer entrega, na extensão do escopo |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
 | [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
@@ -89,6 +90,8 @@ Cada capítulo deve realizar uma tarefa defensiva distinta. Agrupe argumentos co
 Pesquise o direito quando necessário ao conteúdo jurídico, conforme a referência. Confira precedentes e incidência temporal antes de tratá-los como verificados. Peças anteriores fornecidas pelo usuário são referências de método e estilo; suas citações não constituem validação atual.
 
 Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
+
+Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 
 Antes de afirmar que algo é incontroverso, admitido ou provado, confira a fonte e a necessidade estratégica dessa formulação. Quando couber, desenvolva argumento subsidiário por hipótese expressa, sem converter sua premissa em confissão ou abandonar a tese principal.
 

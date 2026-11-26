@@ -13,6 +13,8 @@ Em toda execução, pesquise o entendimento atual sobre os temas pertinentes ao 
 
 Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
 
+Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
+
 Nas minutas de HC, adote **DO CONSTRANGIMENTO ILEGAL** como tópico central do mérito. Pode complementar o título com a ilegalidade demonstrável e distribuir questões distintas em subtópicos. Não crie um capítulo genérico para repetir argumentos desenvolvidos em outro lugar. Toda minuta de HC abre com o cabeçalho de identificação e o preâmbulo em três blocos (impetrantes e fundamento, título, paciente com situação de liberdade e ato coator) de [Redação e pedidos](references/redacao-pedidos.md). Em revisão parcial, respeite a estrutura que o usuário mandou preservar e sugira a adaptação separadamente.
 
 Ao enfrentar fundamento de decisão, reproduza o trecho literal pertinente em *itálico*, com origem e localização conferidas, e desenvolva a resposta a partir dele. Aspas exigem original; texto de modelo, relatório ou OCR não conferido não comprova literalidade. A pontuação da citação é intocável. Consulte [Confronto literal](references/confronto-literal.md).
@@ -49,6 +51,7 @@ Não transforme redação em protocolo, envio a terceiros ou alteração de docu
 | [Fontes de partida](references/fontes-de-partida.md) | Localização inicial das fontes oficiais, sempre seguida de conferência atual. |
 | [Pistas de pesquisa](references/pistas-de-pesquisa.md) | Julgados e normas lidos na formação da habilidade, com data e validade; ponto de partida, nunca precedente verificado. |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira. |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos. |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha. |
 | [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita. |

@@ -42,6 +42,6 @@ Leia o [Guia de início](plugins/trilha-criminal/GUIA-DE-INICIO.md). Ele leva ci
 
 ## Conteúdo
 
-O pacote contém instruções e referências metodológicas. Não inclui autos, peças reais, dados de clientes, credenciais ou catálogo de precedentes. Toda jurisprudência e legislação é conferida na própria execução.
+O pacote contém instruções e referências metodológicas. Não inclui autos, peças reais, dados de clientes, credenciais ou catálogo de precedentes. Toda jurisprudência e legislação é pesquisada na própria execução, e cada entrega vem com um arquivo de fontes, com o link de cada artigo e de cada julgado, para o advogado conferir antes de usar. Para isso, a pesquisa na web precisa estar ligada na conversa.
 
 Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do titular. Condições em [LICENSE.md](plugins/trilha-criminal/LICENSE.md).

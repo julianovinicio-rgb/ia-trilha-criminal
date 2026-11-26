@@ -42,7 +42,7 @@ Para prazo, não presuma quinze dias úteis. Confirme texto vigente, legislaçã
 
 ## STF
 
-Use o [portal oficial](https://www.stf.jus.br/transparencia/) para obter o regimento consolidado e consulte atos normativos posteriores. Os arts. 67 a 69, capítulo de HC, disciplina de RHC e art. 317 são pontos de localização.
+Use o portal oficial do STF (portal.stf.jus.br), na área de legislação e atos normativos, para obter o regimento consolidado e consulte atos normativos posteriores. Os arts. 67 a 69, capítulo de HC, disciplina de RHC e art. 317 são pontos de localização.
 
 No art. 69, verifique prevenção e exceções, incluindo o tratamento da negativa de seguimento sem apreciação de liminar. Não confunda relatoria anterior com prevenção necessariamente preservada. Para agravo, confira exceções regimentais e jurisprudência atual, distinguindo decisão cautelar e encerramento monocrático do feito.
 

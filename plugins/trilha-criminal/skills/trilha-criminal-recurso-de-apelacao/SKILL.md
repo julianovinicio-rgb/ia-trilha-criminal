@@ -32,6 +32,7 @@ Em revisão pontual, limite o exame ao necessário. Em razões integrais, examin
 | Conferência jurídica, documental e do arquivo final | [Revisão e entrega](references/revisao-e-entrega.md) |
 | Sustentação oral no julgamento da apelação: cabimento, tempo, requerimento e roteiro | [Sustentação oral](references/sustentacao-oral.md) |
 | Menção, citação, transcrição ou análise de artigo de lei brasileira | [Conferência legislativa](references/conferencia-legislativa.md) |
+| Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte | [Registro de fontes](references/registro-de-fontes.md) |
 | Indicação de documento, trecho ou mídia dos autos | [Localização de documentos](references/localizacao-de-documentos.md) |
 | Autorização, sigilo, nota ao advogado, estados de entrega e linguagem | [Núcleo comum](references/nucleo-comum.md) |
 | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita | [Peça em Word](references/peca-em-word.md) |
@@ -64,6 +65,7 @@ Use a matriz apenas se facilitar o trabalho; não a inclua automaticamente na pe
 - Não transporte teses, nomes, penas, precedentes ou relações entre pessoas de casos anteriores, modelos ou exemplos. A hipótese jurídica depende do processo atual.
 - Verifique legislação temporalmente aplicável e precedentes em fontes oficiais quando formular conclusões jurídicas. Citações de peças antigas não são pesquisa atual.
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
+- Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 - Pedido subsidiário deve explicitar sua condição, preservando a tese principal. Nenhum pedido nasce apenas de um modelo.
 - Ao mencionar documento do processo, siga [Localização de documentos](references/localizacao-de-documentos.md): na peça, apenas o identificador do sistema (por exemplo, mov. 98.1 no Projudi ou ID no PJe), sem página do arquivo PDF lido; para mídias, identificador e minutagem. Na nota ao advogado, a página do arquivo só aparece quando ajudar a localizar o trecho e rotulada como tal.
 - Transcrição revisada ou organizada não substitui o áudio ou vídeo para citação literal; sem conferência no original, informe a pendência ao advogado.

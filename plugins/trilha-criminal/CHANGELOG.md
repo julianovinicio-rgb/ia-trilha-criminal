@@ -2,6 +2,31 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.11.0
+
+Registro de fontes. Motivo: o advogado não confia em jurisprudência apresentada por IA, e a conferência das fontes ficava espalhada na nota ao advogado, sem link para clicar. Além disso, os exemplos de entrega mostravam "pesquisa não realizada" como resultado normal.
+
+### Todas as habilidades
+
+- Nova referência `references/registro-de-fontes.md`, idêntica nas oito: pesquisa em toda execução, nas três frentes (precedentes qualificados, STF e STJ, tribunal do caso); quatro estados de conferência; regra de que julgado não conferido em fonte oficial não sustenta afirmação no texto ao juízo e, se necessário à tese, entra com a marca `[CONFERIR NO PORTAL: ...]`; diferença entre link aberto e caminho de conferência; modelo do arquivo `Fontes - [nome da entrega].md`; conferência cruzada entre peça, nota e registro.
+- A mesma referência traz o retrato de acesso de 26/11/2026: Planalto, súmulas do STF e temas repetitivos do STJ abriram para ferramenta automática; a pesquisa de jurisprudência do STJ recusou o acesso e a do STF abriu sem conteúdo. A Revista Eletrônica de Jurisprudência do STJ entregou inteiro teor em HTML.
+- Ajustes feitos depois do teste de 26/11/2026 (caso fictício H6.7, em contexto limpo): informativo e notícia do próprio tribunal entram no estado "Conferido no registro oficial", com o tipo indicado; identificação de julgado em segredo de justiça; aviso de leitura mediada pela ferramenta; distinção entre tentar abrir um endereço e registrá-lo como aberto; regra de proporção do registro.
+- `nucleo-comum.md`: o registro de fontes passa a ser o terceiro item da entrega, ao lado do texto ao juízo e da nota ao advogado.
+- `conferencia-legislativa.md`: a conferência do artigo vai também para o registro, com o link da página aberta.
+- `SKILL.md` das oito: linha na tabela de referências e regra de pesquisa e de registro.
+
+### Ajustes por habilidade
+
+- Estudo de Caso: o exemplo de entrega mostra a pesquisa feita e o arquivo de fontes; o modelo de relatório remete ao registro na seção 10.
+- Habeas Corpus: exemplo de entrega com o arquivo de fontes; retirado o endereço do portal de transparência do STF, que passou a devolver erro 404, e o da consolidação do regimento, que não respondeu.
+- Recursos nos Tribunais Superiores: os mesmos dois endereços retirados; aviso de que as bases de pesquisa do STJ e do STF não abriram para ferramenta automática.
+- Peças Defensivas e Flagrante e Custódia: a entrega menciona o registro.
+
+### Documentação e ferramentas
+
+- Guia de início: seção "Antes do primeiro pedido", sobre ligar a pesquisa na web, e o arquivo de fontes em "O que esperar".
+- `verificar.py` confere que `registro-de-fontes.md` é idêntico nas oito habilidades.
+
 ## 0.10.1
 
 - `plugin.json` e `.claude-plugin/plugin.json`: campo `icon` apontando para `assets/trilha-logo-v024.png`, a logo redonda que o manifesto do Codex já usava. Motivo: a página do plugin no claude.ai mostrava um ícone genérico. Pela documentação do Claude Code, o campo é lido pelo diretório da Anthropic; se o claude.ai o usa para marketplaces sincronizados, só a página dirá.

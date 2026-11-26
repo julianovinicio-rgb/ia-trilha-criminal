@@ -36,6 +36,7 @@ Leia as referências obrigatórias nos momentos indicados. Consulte somente as s
 | [Estratégia e revisão](references/revisao-estrategica.md) | Hierarquização dos caminhos e revisão antes de toda entrega; novamente na peça solicitada |
 | [Modelo de relatório](references/modelo-relatorio.md) | Organização e conferência da entrega, com dez seções |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
@@ -85,6 +86,8 @@ Selecione os módulos pertinentes: investigação, mérito, liberdade, instruç�
 Formule a pauta jurídica a partir das fontes e siga o protocolo de pesquisa. Verifique legislação oficial, vigência e incidência temporal; pesquise STF, STJ e tribunal competente, examinando orientação contrária e fatos que distingam os precedentes.
 
 Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
+
+Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 
 Registre fonte oficial, alcance da leitura, dados confirmados, data da consulta, entendimento e aplicação/limites. Não confunda pedido, voto vencido, passagem citada e razão de decidir. Não apresente memória como pesquisa atual.
 

@@ -12,7 +12,7 @@ Esta é a rotina única da skill para toda menção, citação, transcrição ou
 3. Identifique a data do fato e a data do ato processual relevante para a questão examinada.
 4. Se a última alteração do dispositivo for posterior à data do fato, transcreva a redação vigente e também a redação da época, indique a lei que alterou o texto e analise qual redação incide. Considere a irretroatividade da lei penal mais gravosa, a ultratividade da mais benéfica e a natureza material, processual ou mista da norma.
 5. Na transcrição, não use a redação revogada ou tachada como se fosse a vigente. A redação revogada só aparece quando for a da época do fato e estiver identificada como tal.
-6. Registre a conferência na nota ao advogado ou na seção de fontes do relatório, e não no texto destinado ao juízo: dispositivo, fonte usada e data. Exemplos: "art. 312 do CPP: conferido no Planalto em dd/mm/aaaa"; "art. 312 do CPP: conferido no portal do Senado em dd/mm/aaaa, Planalto inacessível nesta execução".
+6. Registre a conferência na nota ao advogado ou na seção de fontes do relatório, e não no texto destinado ao juízo: dispositivo, fonte usada e data. O mesmo dado vai para o arquivo de [Registro de fontes](registro-de-fontes.md), com o link da página aberta. Exemplos: "art. 312 do CPP: conferido no Planalto em dd/mm/aaaa"; "art. 312 do CPP: conferido no portal do Senado em dd/mm/aaaa, Planalto inacessível nesta execução".
 7. Se nenhuma fonte oficial puder ser acessada, informe expressamente que o artigo não foi conferido, não o apresente como verificado e marque o ponto na minuta de forma inequívoca, como `[CONFIRMAR: redação do art. X]`.
 
 ## Observações de aplicação

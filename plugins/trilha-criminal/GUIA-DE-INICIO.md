@@ -27,9 +27,16 @@ Ele ensina ao assistente um método de trabalho defensivo criminal. São oito ha
 
 **3. Leia a nota ao advogado.** Toda entrega vem em duas partes: o texto para o juízo e uma nota separada para você. A nota diz o que foi lido, o que não foi, quais artigos e julgados foram conferidos e em que data, e o que ainda precisa de confirmação. Marcas como `[CONFIRMAR: data da intimação]` na minuta são pontos que só você pode resolver.
 
+## Antes do primeiro pedido
+
+Confira se a pesquisa na web está ligada na sua conversa. Sem ela, o assistente não consegue conferir lei nem jurisprudência, e toda entrega sai com esses pontos pendentes. A criação de arquivos também precisa estar disponível para receber o Word e o arquivo de fontes.
+
+A pesquisa de jurisprudência do STJ e a do STF costumam recusar ferramentas automáticas. Por isso é normal que parte dos julgados venha como pista a conferir: o arquivo de fontes traz o número e o caminho, e a conferência leva um minuto no portal do tribunal.
+
 ## O que esperar
 
-- **Nenhum precedente de memória.** A jurisprudência é pesquisada na hora, em fonte oficial. Se a pesquisa não for possível, a entrega diz que o ponto está pendente.
+- **Nenhum precedente de memória.** A jurisprudência é pesquisada na hora, no STF, no STJ e no tribunal do seu processo, em fonte oficial. Se a pesquisa não for possível, a entrega diz que o ponto está pendente.
+- **Um arquivo de fontes para você conferir.** Junto com a peça ou o estudo vem o arquivo `Fontes - [nome da entrega].md`: cada artigo e cada julgado com o link de onde saiu, o que foi lido e se foi conferido. Clique, confira e só então use. Julgado que a IA não conseguiu abrir no portal oficial aparece como pista, com o caminho para você conferir, e não entra na peça como fundamento.
 - **Artigos de lei conferidos.** O texto é lido em fonte oficial na execução, com a data registrada na nota.
 - **Citações literais só do original.** Trecho entre aspas ou em itálico foi conferido no documento. Se o original não estava disponível, a nota avisa.
 - **Nenhuma conta de cabeça.** Datas, frações e penas são calculadas por um script, e a entrega traz a memória de cálculo para você refazer. A data projetada é uma conta sobre os dados informados, e não um direito reconhecido. Se a sua conversa não executa código, a entrega avisa que a conta foi feita à mão.
@@ -49,7 +56,7 @@ Os documentos que você envia são tratados como fonte do caso. O método proíb
 - **A habilidade errada foi acionada:** chame a certa pelo nome.
 - **A conta veio sem memória de cálculo:** a habilidade de cálculos não entrou. Chame-a pelo nome, `/trilha-criminal-calculos-penais`, e repita o pedido.
 - **A entrega veio longa demais:** peça o recorte. "Só o capítulo da dosimetria."
-- **Um artigo ou julgado parece errado:** peça a fonte e a data de conferência. Se não houver, trate como não conferido.
+- **Um artigo ou julgado parece errado:** abra o arquivo de fontes e clique no link. Se a entrega veio sem ele, peça: "gere o registro de fontes desta entrega". O que não tiver link aberto e data, trate como não conferido.
 - **A versão está desatualizada:** confira se a atualização automática do marketplace está ligada, ou peça a atualização na hora (no Claude, "Verificar atualizações" na tela de plugins), e abra uma conversa nova.
 
 Histórico de versões em [CHANGELOG.md](CHANGELOG.md). Condições de uso em [LICENSE.md](LICENSE.md).

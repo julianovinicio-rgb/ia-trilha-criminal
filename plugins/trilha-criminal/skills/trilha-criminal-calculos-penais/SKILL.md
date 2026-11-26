@@ -53,6 +53,7 @@ Conferir a conta de uma dosimetria é trabalho desta habilidade mesmo quando par
 | [Pena e dosimetria](references/pena-e-dosimetria.md) | Conferência de dosimetria, concurso de crimes e limiares |
 | [Execução penal](references/execucao-penal.md) | Progressão, livramento, remição, detração, data-base e término de pena |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
@@ -103,7 +104,7 @@ Não transforme o resultado em afirmação jurídica. "O prazo se esgotou em tal
 
 Entregue, nesta ordem: a resposta em uma ou duas frases, com a urgência se houver; o quadro de entradas com as fontes; a memória de cálculo, que pode ser a gerada pelo script, enxugada ao que importa; os cenários lado a lado quando houver mais de um; e a nota ao advogado.
 
-A nota ao advogado registra os dispositivos conferidos, com fonte e data, os que não foram reconferidos, as entradas sem documento, as premissas de cada cenário, a comparação com o cálculo oficial quando existir e as pendências, no formato `[CONFIRMAR: data da intimação do defensor]`. Súmula ou julgado citado traz o portal do tribunal em que foi aberto, ou a marca de não conferido.
+A nota ao advogado registra os dispositivos conferidos, com fonte e data, os que não foram reconferidos, as entradas sem documento, as premissas de cada cenário, a comparação com o cálculo oficial quando existir e as pendências, no formato `[CONFIRMAR: data da intimação do defensor]`. Súmula ou julgado citado traz o portal do tribunal em que foi aberto, ou a marca de não conferido. Quando a conta se apoia em artigo, súmula ou julgado, esses dados vão também para o arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link aberto e o estado de conferência; na resposta curta, bastam as mesmas linhas no chat.
 
 A nota existe também na resposta curta. Nesse caso bastam duas linhas: o que foi conferido, onde e quando, e o que não foi.
 

@@ -111,6 +111,8 @@ Responda diretamente: caminho mais consistente agora; fontes e fundamentos; prin
 
 Liste fontes examinadas e pendências, com localização, importância, efeito na conclusão e forma de resolver. Use remissão ao inventário para evitar duplicação integral. O índice final não substitui citações junto às afirmações.
 
+Os artigos e julgados da seção 8 vão também para o arquivo de [Registro de fontes](registro-de-fontes.md), entregue junto com o relatório, com o link aberto e o estado de conferência de cada um. Indique aqui o nome do arquivo e o resumo: quantas fontes conferidas e quantas pistas pendentes.
+
 Em atualização, registre documentos novos e conclusões mantidas, alteradas ou superadas com a fonte causadora. Declare quando a falta do relatório anterior impedir comparação.
 
 Se houver limitação de execução, indique o próximo bloco de leitura ou verificação. Não encerre como integral um estudo cuja etapa decisiva esteja pendente.

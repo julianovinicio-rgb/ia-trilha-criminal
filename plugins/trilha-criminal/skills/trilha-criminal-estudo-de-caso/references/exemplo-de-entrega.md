@@ -32,7 +32,7 @@ O relato do policial condutor (mov. 7.1) reproduz o que a vítima disse. Não é
 
 ## 7. Teses defensivas hierarquizadas (trecho)
 
-**Principal: insuficiência de prova de autoria.** Base: quadro acima. Fundamento jurídico pendente de pesquisa na execução sobre o valor do reconhecimento fotográfico não repetido em juízo. Obstáculo: a vítima pode reconhecer Caio em audiência.
+**Principal: insuficiência de prova de autoria.** Base: quadro acima. Fundamento jurídico pesquisado nesta execução sobre o valor do reconhecimento fotográfico não repetido em juízo: um julgado do STJ conferido no inteiro teor e um do tribunal do caso conferido pela ementa, ambos no registro de fontes. Obstáculo: a vítima pode reconhecer Caio em audiência.
 
 **Dependente de verificação: invalidade do reconhecimento.** Depende da mídia e do auto completo. Sem eles, não se afirma descumprimento do procedimento legal.
 
@@ -49,5 +49,6 @@ Revisão adversarial: a acusação dirá que a vítima descreveu tatuagem compat
 ## 10. Fontes e pendências
 
 - Art. 226 do CPP: conferido no Planalto em [data da execução].
-- Jurisprudência sobre reconhecimento: pendente de verificação; pesquisa não realizada nesta entrega.
+- Jurisprudência sobre reconhecimento: pesquisada em [data da execução] no STF, no STJ e no tribunal do caso. Duas fontes conferidas e uma pista pendente, que não foi usada como fundamento.
+- Registro de fontes: arquivo `Fontes - Estudo de caso Caio Lins.md`, com o link de cada artigo e julgado e o que foi lido em cada um.
 - Estado: estudo parcial, limitado ao arquivo recebido.

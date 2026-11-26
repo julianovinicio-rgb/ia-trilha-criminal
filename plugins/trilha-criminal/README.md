@@ -1,6 +1,6 @@
 # IA Trilha Criminal
 
-Versão 0.10.1, distribuída aos alunos da Trilha Criminal.
+Versão 0.11.0, distribuída aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -52,6 +52,10 @@ O mesmo script audita o Word gerado ou recebido: forma (fonte, cor, página, par
 
 Todas as habilidades têm o arquivo `references/conferencia-legislativa.md`, com conteúdo idêntico. Ele concentra a regra de conferência de artigos de lei: texto em fonte oficial na própria execução, com preferência pelo Planalto na versão compilada e, se ele não puder ser aberto, outra fonte oficial identificada; análise da redação aplicável na data do fato; e registro da fonte e da data na nota ao advogado, fora do texto destinado ao juízo. Alterações futuras dessa regra devem ser feitas nesse arquivo em cada habilidade.
 
+## Registro de fontes
+
+Todas as habilidades têm o arquivo `references/registro-de-fontes.md`, com conteúdo idêntico. Ele torna a pesquisa parte obrigatória de toda execução (precedentes qualificados, STF, STJ e o tribunal em que o processo tramita) e define o arquivo de conferência que acompanha a entrega: `Fontes - [nome da entrega].md`, com cada artigo e cada julgado, o link efetivamente aberto, o que foi lido, a data e um de quatro estados de conferência. Julgado localizado só em fonte não oficial, ou não aberto na execução, fica como pista com caminho de conferência e não sustenta afirmação no texto destinado ao juízo. O arquivo traz também um retrato datado de quais portais oficiais abrem para ferramenta automática.
+
 ## Núcleo comum
 
 Todas as habilidades têm o arquivo `references/nucleo-comum.md`, com conteúdo idêntico: autorização e sigilo, limites de afirmação, separação entre peça e nota ao advogado, estados de entrega, linguagem e marcas de texto automático a evitar. Regra mais específica de cada habilidade prevalece sobre ele.
@@ -91,3 +95,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.9.0:** Habeas Corpus revisto a partir de dois trabalhos reais: preâmbulo fixo em três blocos, síntese argumentativa separada do histórico, rotina para minuta parada antes do protocolo, HC concomitante a recurso com o mesmo pedido, enfrentamento de fundamento formal e de decisão reproduzida, escada de subsidiários em cautelares diversas e técnicas para preventiva mantida. Em todas as habilidades, súmula e julgado só entram a partir do portal do tribunal ou marcados como não conferidos, e a data do ato se distingue da data da movimentação.
 - **0.10.0:** a minuta integral de petição sai também em Word, no padrão neutro da Trilha (Times New Roman, tudo em preto, sem timbrado), por um script com auditoria de forma e de escrita; o núcleo comum proíbe o travessão em qualquer função no texto ao juízo e lista as marcas de texto automático a evitar.
 - **0.10.1:** logo da Trilha Criminal no campo `icon` do manifesto do Claude, para a página do plugin.
+- **0.11.0:** registro de fontes em todas as habilidades: pesquisa de legislação e de jurisprudência em toda execução, no STF, no STJ e no tribunal do caso, e arquivo separado com o link, o que foi lido e o estado de conferência de cada fonte; dois endereços do STF que deixaram de abrir foram retirados.

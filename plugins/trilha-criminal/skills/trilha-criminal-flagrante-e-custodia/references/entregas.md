@@ -30,7 +30,7 @@ Ao final de toda entrega, em bloco separado do texto destinado ao juízo, indiqu
 - documentos recebidos e último documento examinado;
 - documentos e horários faltantes, com o efeito de cada falta;
 - dispositivos conferidos, com a data, e dispositivos não conferidos;
-- jurisprudência pesquisada e conferida na execução ou pendente de verificação;
+- jurisprudência pesquisada e conferida na execução ou pendente de verificação, com o [Registro de fontes](registro-de-fontes.md) em lista curta quando a audiência for iminente;
 - providências sugeridas que dependem de decisão do advogado.
 
 Não anuncie conferência que não ocorreu. Revisão pelo mesmo modelo não equivale a auditoria independente.

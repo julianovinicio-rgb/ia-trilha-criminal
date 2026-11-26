@@ -17,6 +17,7 @@ Este arquivo reúne as regras que valem de forma idêntica em todas as habilidad
 - Ausência do documento no material recebido, falta de acesso e inexistência demonstrada do ato são situações diferentes e são ditas como tais.
 - Artigo de lei segue [Conferência legislativa](conferencia-legislativa.md). Indicação de documento dos autos segue [Localização de documentos](localizacao-de-documentos.md).
 - Jurisprudência é pesquisada e conferida na própria execução, em fonte oficial. Súmula ou julgado só entra na entrega se foi aberto no portal do tribunal nesta execução, com classe, número e data. Site jurídico privado, blog e resumo de busca servem para localizar, não para afirmar: o que não foi aberto no portal vem marcado como não conferido, ou não entra. Pista de pesquisa registrada nesta habilidade não é precedente verificado.
+- A pesquisa é feita em toda execução, no STF, no STJ e no tribunal do caso, e cada fonte usada vai para o arquivo de conferência descrito em [Registro de fontes](registro-de-fontes.md), com o link aberto e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 - Nenhuma conclusão tem certeza superior à base examinada.
 
 ## Peça e nota ao advogado
@@ -25,6 +26,8 @@ Toda entrega separa dois textos:
 
 - **Texto destinado ao juízo ou tribunal:** somente a argumentação necessária, sem comentário interno, avaliação de risco, registro de pesquisa ou ressalva editorial.
 - **Nota ao advogado:** curta e separada, com o que foi examinado e o último ato abrangido, pendências e seu efeito, fontes conferidas com data, riscos e escolhas que dependem dele.
+
+Quando a entrega cita lei ou jurisprudência, há um terceiro item, fora dos dois textos: o **registro de fontes**, arquivo separado em que o advogado clica e confere de onde saiu cada artigo e cada julgado, conforme [Registro de fontes](registro-de-fontes.md). A nota ao advogado resume esse registro em uma linha e indica o arquivo.
 
 Dado pendente na minuta é marcado de forma inequívoca, como `[CONFIRMAR: data da intimação]`, e repetido na nota. Pendência não se resolve retirando a ressalva: ela permanece na nota até haver documento ou confirmação.
 
@@ -67,4 +70,4 @@ Nas habilidades que redigem petição, o script descrito na referência Peça em
 
 ## Formato e arquivos
 
-Minuta integral de petição sai também em Word, no padrão neutro da Trilha, nas habilidades que têm a referência Peça em Word e seu script; as demais entregas vão no chat, e arquivo é gerado quando solicitado, no formato pedido. Se o usuário fornecer timbrado ou modelo de escritório, ele é usado; sem ele, não se improvisa identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.
+Minuta integral de petição sai também em Word, no padrão neutro da Trilha, nas habilidades que têm a referência Peça em Word e seu script; as demais entregas vão no chat, e arquivo é gerado quando solicitado, no formato pedido. O registro de fontes sai em arquivo Markdown próprio sempre que a entrega cita lei ou jurisprudência e a conversa cria arquivos. Se o usuário fornecer timbrado ou modelo de escritório, ele é usado; sem ele, não se improvisa identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.

@@ -18,6 +18,7 @@ Fica fora do escopo a preventiva decretada ou mantida depois da custódia, que p
 - Não presuma horário de captura, de lavratura, de comunicação ou de apresentação ao juiz. Use os horários registrados e indique os que faltam.
 - Não oriente o cliente a apresentar versão dos fatos na custódia nem produza narrativa para ele. A decisão de falar ou silenciar pertence ao cliente, assistido pelo advogado.
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira ou da Constituição, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
+- Legislação e jurisprudência são pesquisadas nesta execução, no STF, no STJ e no tribunal do caso, e toda entrega que as cite vem acompanhada do arquivo descrito em [Registro de fontes](references/registro-de-fontes.md), com o link de cada fonte e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 - Jurisprudência é pesquisada e conferida na própria execução, em fonte oficial, sem catálogo fixo de precedentes. Sem pesquisa possível no tempo disponível, a entrega diz que o fundamento jurisprudencial está pendente de verificação.
 - Não faça protocolo, contato com autoridades, familiares ou testemunhas, nem envio de documentos a serviços externos sem instrução específica. Use pesquisa pública com termos abstratos, sem dados do cliente.
 - Escreva em português brasileiro técnico, direto e natural, sem travessão, retórica, clichês, negrito excessivo ou as demais marcas de texto automático do núcleo comum.
@@ -31,6 +32,7 @@ Fica fora do escopo a preventiva decretada ou mantida depois da custódia, que p
 | [Liberdade provisória inicial](references/liberdade-provisoria-inicial.md) | Minuta de relaxamento ou de liberdade provisória antes ou depois da custódia |
 | [Entregas](references/entregas.md) | Formato de toda entrega e indicação do que não foi conferido |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
 | [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
