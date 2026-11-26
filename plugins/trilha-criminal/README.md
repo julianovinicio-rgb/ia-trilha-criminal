@@ -1,6 +1,6 @@
 # IA Trilha Criminal
 
-Versão 0.10.0, distribuída aos alunos da Trilha Criminal.
+Versão 0.10.1, distribuída aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -90,3 +90,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.8.3:** descrição de Recursos nos Tribunais Superiores reescrita para entrar em pergunta curta sobre decisão de relator, Presidência ou turma do STJ e do STF; descrição de Cálculos Penais começa pelo gatilho; fronteiras com Habeas Corpus e Recurso de Apelação explicitadas.
 - **0.9.0:** Habeas Corpus revisto a partir de dois trabalhos reais: preâmbulo fixo em três blocos, síntese argumentativa separada do histórico, rotina para minuta parada antes do protocolo, HC concomitante a recurso com o mesmo pedido, enfrentamento de fundamento formal e de decisão reproduzida, escada de subsidiários em cautelares diversas e técnicas para preventiva mantida. Em todas as habilidades, súmula e julgado só entram a partir do portal do tribunal ou marcados como não conferidos, e a data do ato se distingue da data da movimentação.
 - **0.10.0:** a minuta integral de petição sai também em Word, no padrão neutro da Trilha (Times New Roman, tudo em preto, sem timbrado), por um script com auditoria de forma e de escrita; o núcleo comum proíbe o travessão em qualquer função no texto ao juízo e lista as marcas de texto automático a evitar.
+- **0.10.1:** logo da Trilha Criminal no campo `icon` do manifesto do Claude, para a página do plugin.

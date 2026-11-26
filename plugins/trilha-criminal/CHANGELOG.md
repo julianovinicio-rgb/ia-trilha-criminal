@@ -2,6 +2,10 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.10.1
+
+- `plugin.json` e `.claude-plugin/plugin.json`: campo `icon` apontando para `assets/trilha-logo-v024.png`, a logo redonda que o manifesto do Codex já usava. Motivo: a página do plugin no claude.ai mostrava um ícone genérico. Pela documentação do Claude Code, o campo é lido pelo diretório da Anthropic; se o claude.ai o usa para marketplaces sincronizados, só a página dirá.
+
 ## 0.10.0
 
 Peça em Word e escrita sem marcas de texto automático. Motivo: as minutas saíam só no chat, e cada pedido de Word era formatado de um jeito; e a regra de linguagem nomeava apenas o "travessão estilístico", o que deixava passar o travessão de aposto e outras marcas comuns de texto gerado.
