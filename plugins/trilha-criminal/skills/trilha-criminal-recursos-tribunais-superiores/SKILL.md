@@ -52,6 +52,7 @@ Estes pontos são regras abstratas, conferidas a cada execução nas fontes indi
 | [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Arquivos de continuidade](references/arquivos-de-continuidade.md) | Início de todo trabalho em caso com pasta acessível ou com esses arquivos anexados; criação e atualização das diretrizes do caso e do índice dos autos |
 | [Peça em Word](references/peca-em-word.md) | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 

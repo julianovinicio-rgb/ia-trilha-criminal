@@ -20,6 +20,12 @@ Este arquivo reúne as regras que valem de forma idêntica em todas as habilidad
 - A pesquisa é feita em toda execução, no STF, no STJ e no tribunal do caso, e cada fonte usada vai para o arquivo de conferência descrito em [Registro de fontes](registro-de-fontes.md), com o link aberto e o estado de conferência. Julgado não conferido em fonte oficial não sustenta afirmação no texto destinado ao juízo.
 - Nenhuma conclusão tem certeza superior à base examinada.
 
+## Continuidade do caso
+
+- Antes de trabalhar em caso cuja pasta esteja acessível, procure `DIRETRIZES-DO-CASO.md` (do cliente) e `indice.md` (do processo) e leia-os antes dos autos, conforme [Arquivos de continuidade](arquivos-de-continuidade.md). Anexados à conversa, eles valem do mesmo modo.
+- Esses arquivos orientam a leitura e registram as decisões do advogado. Não substituem a conferência no original.
+- Decisão do advogado registrada vale até ele mudar. Sugestão da ferramenta fica como proposta até ser aprovada.
+
 ## Peça e nota ao advogado
 
 Toda entrega separa dois textos:
@@ -70,4 +76,4 @@ Nas habilidades que redigem petição, o script descrito na referência Peça em
 
 ## Formato e arquivos
 
-Minuta integral de petição sai também em Word, no padrão neutro da Trilha, nas habilidades que têm a referência Peça em Word e seu script; as demais entregas vão no chat, e arquivo é gerado quando solicitado, no formato pedido. O registro de fontes sai em arquivo Markdown próprio sempre que a entrega cita lei ou jurisprudência e a conversa cria arquivos. Se o usuário fornecer timbrado ou modelo de escritório, ele é usado; sem ele, não se improvisa identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.
+Minuta integral de petição sai também em Word, no padrão neutro da Trilha, nas habilidades que têm a referência Peça em Word e seu script; as demais entregas vão no chat, e arquivo é gerado quando solicitado, no formato pedido. Os arquivos de continuidade do caso seguem regra própria, em [Arquivos de continuidade](arquivos-de-continuidade.md). O registro de fontes sai em arquivo Markdown próprio sempre que a entrega cita lei ou jurisprudência e a conversa cria arquivos. Se o usuário fornecer timbrado ou modelo de escritório, ele é usado; sem ele, não se improvisa identidade institucional. Originais são preservados e a edição é feita em cópia, salvo instrução expressa. O pacote distribuível não contém autos, peças reais, dados de clientes ou caminhos privados, e todo exemplo é fictício e identificado como tal.

@@ -39,9 +39,12 @@ Leia as referências obrigatórias nos momentos indicados. Consulte somente as s
 | [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Arquivos de continuidade](references/arquivos-de-continuidade.md) | Início de todo trabalho em caso com pasta acessível ou com esses arquivos anexados; criação e atualização das diretrizes do caso e do índice dos autos |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## 1. Delimitar, verificar urgência e controlar leitura
+
+Comece pelos arquivos de continuidade, quando a pasta do caso estiver acessível ou eles vierem anexados: leia `DIRETRIZES-DO-CASO.md` e o `indice.md` de cada processo antes dos autos, conforme [Arquivos de continuidade](references/arquivos-de-continuidade.md). Use o índice para localizar as peças e as diretrizes para saber o objetivo e o que o advogado já decidiu. A cobertura do estudo continua sendo registrada pelo que foi efetivamente examinado nos autos.
 
 Identifique cliente, posição, processo, juízo, imputações/objeto investigado, fase, liberdade/cautelares, objetivo e último ato abrangido. Não presuma denúncia, condenação ou trânsito em julgado.
 
@@ -120,5 +123,7 @@ Apresente no chat por padrão; gere arquivo quando solicitado no formato indicad
 A conclusão responde: caminho mais consistente agora; fontes e fundamentos; principal risco; primeira providência; confirmações necessárias. Não omita pendências para aparentar completude.
 
 Com documentos novos, registre novo recorte e conclusões mantidas, alteradas ou superadas, com fontes. Reexamine os pontos afetados; não simule comparação se o estudo anterior não estiver acessível.
+
+Quando o ambiente permitir gravar na pasta do caso, crie ou atualize os arquivos de continuidade ao fim de cada estudo ou atualização. No `indice.md` de cada processo, registre todos os documentos inventariados, com identificador, data, arquivo e páginas, e a data da última conferência. Em `DIRETRIZES-DO-CASO.md`, atualize resumo, processos, pendências e próximos passos. A conclusão do estudo entra em "Propostas em aberto", e só passa a "Decisões tomadas" o que o advogado decidir. Informe em uma linha o que mudou nos dois arquivos. Em conversa sem pasta do caso, entregue os dois arquivos para baixar, com o mesmo conteúdo, conforme a mesma referência.
 
 Antes de entregar, confira cobertura, identificadores, fontes, classificação, matrizes, auditoria, módulos, pesquisa, cálculos quando existentes e revisão adversarial. Nenhuma conclusão pode ter certeza superior à base examinada.

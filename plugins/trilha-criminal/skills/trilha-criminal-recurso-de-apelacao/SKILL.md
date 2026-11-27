@@ -35,6 +35,7 @@ Em revisão pontual, limite o exame ao necessário. Em razões integrais, examin
 | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte | [Registro de fontes](references/registro-de-fontes.md) |
 | Indicação de documento, trecho ou mídia dos autos | [Localização de documentos](references/localizacao-de-documentos.md) |
 | Autorização, sigilo, nota ao advogado, estados de entrega e linguagem | [Núcleo comum](references/nucleo-comum.md) |
+| Início de todo trabalho em caso com pasta acessível ou com esses arquivos anexados; criação e atualização das diretrizes do caso e do índice dos autos | [Arquivos de continuidade](references/arquivos-de-continuidade.md) |
 | Entrega da minuta integral de petição em Word, no padrão neutro da Trilha, e auditoria de forma e de escrita | [Peça em Word](references/peca-em-word.md) |
 | Calibrar formato, proporção e tom antes de entregar, com exemplo fictício cujos fatos e conclusões não se copiam | [Exemplo de entrega](references/exemplo-de-entrega.md) |
 

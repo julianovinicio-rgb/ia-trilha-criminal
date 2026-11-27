@@ -2,6 +2,28 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.12.0
+
+Arquivos de continuidade do caso. Motivo: cada novo pedido sobre o mesmo caso recomeçava do zero, relendo os autos inteiros, e a estratégia conversada com o advogado se perdia entre uma conversa e outra.
+
+### Todas as habilidades
+
+- Nova referência `references/arquivos-de-continuidade.md`, idêntica nas oito: `DIRETRIZES-DO-CASO.md`, um por cliente e cobrindo todos os processos dele, e `indice.md`, um por processo; leitura obrigatória antes dos autos quando a pasta do caso está acessível; o índice orienta a leitura, mas não comprova e não conta como exame para cobertura; separação entre decisões do advogado e propostas da ferramenta; modelos dos dois arquivos.
+- A mesma referência trata da conversa sem pasta do caso, em que o usuário trabalha por anexos: os arquivos anexados são lidos do mesmo modo; o Estudo de Caso entrega os dois para baixar; as demais habilidades só os atualizam quando foram anexados e, se não foram, não os mencionam. E do caso de mais de um processo na mesma pasta: o índice se chama `indice-<número do processo>.md`.
+- `nucleo-comum.md`: nova seção "Continuidade do caso"; "Formato e arquivos" remete à regra própria dos arquivos de continuidade.
+- `SKILL.md` das oito: linha na tabela de referências.
+
+### Estudo de Caso
+
+- Abertura do estudo pelos arquivos de continuidade.
+- Criação e atualização do índice e das diretrizes ao fim de cada estudo ou atualização, com a conclusão do estudo registrada como proposta.
+- `cobertura-documental.md`: o índice passa a ser o registro de trabalho para retomar e o ponto de partida da atualização.
+
+### Documentação e ferramentas
+
+- README: seção "Arquivos de continuidade" e entrada no histórico de versões. Guia de início: aviso em "O que esperar".
+- `verificar.py` confere que `arquivos-de-continuidade.md` é idêntico nas oito habilidades.
+
 ## 0.11.0
 
 Registro de fontes. Motivo: o advogado não confia em jurisprudência apresentada por IA, e a conferência das fontes ficava espalhada na nota ao advogado, sem link para clicar. Além disso, os exemplos de entrega mostravam "pesquisa não realizada" como resultado normal.

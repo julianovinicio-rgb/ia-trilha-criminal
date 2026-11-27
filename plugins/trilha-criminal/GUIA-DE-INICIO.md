@@ -41,6 +41,7 @@ A pesquisa de jurisprudência do STJ e a do STF costumam recusar ferramentas aut
 - **Citações literais só do original.** Trecho entre aspas ou em itálico foi conferido no documento. Se o original não estava disponível, a nota avisa.
 - **Nenhuma conta de cabeça.** Datas, frações e penas são calculadas por um script, e a entrega traz a memória de cálculo para você refazer. A data projetada é uma conta sobre os dados informados, e não um direito reconhecido. Se a sua conversa não executa código, a entrega avisa que a conta foi feita à mão.
 - **Minuta em Word.** A minuta completa de uma petição vem também em Word, em Times New Roman e toda em preto, sem timbrado. Se quiser o seu timbrado, envie o modelo do escritório em Word junto com o pedido.
+- **Memória do caso na pasta do cliente.** Com a pasta do cliente conectada, o Estudo de Caso cria dois arquivos: `DIRETRIZES-DO-CASO.md`, com o resumo, a estratégia e o que você já decidiu, e `indice.md`, com o que existe nos autos e onde está. As outras habilidades passam a lê-los antes de trabalhar, para não recomeçar do zero. No chat, sem pasta conectada, os dois arquivos vêm para baixar: salve-os na pasta do cliente e anexe-os no próximo pedido sobre o caso. Sugestão do assistente fica como proposta até você aprovar.
 - **Nenhuma peça "pronta para protocolo".** O plugin entrega minuta elaborada, revisada no escopo indicado ou com pendências. A conferência final e a decisão de protocolar são suas.
 
 ## O que o plugin não faz

@@ -1,6 +1,6 @@
 # IA Trilha Criminal
 
-Versão 0.11.0, distribuída aos alunos da Trilha Criminal.
+Versão 0.12.0, distribuída aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -64,6 +64,10 @@ Todas as habilidades têm o arquivo `references/nucleo-comum.md`, com conteúdo 
 
 Todas as habilidades têm também o arquivo `references/localizacao-de-documentos.md`, com conteúdo idêntico. Ele define como indicar documentos, trechos e mídias dos autos: na peça, apenas o identificador do sistema de origem (movimento no Projudi, ID no PJe, evento no eproc, folha no e-SAJ e em autos físicos); em relatórios e notas ao advogado, o identificador e, quando útil, a página do arquivo rotulada como tal. A preferência expressa do usuário prevalece.
 
+## Arquivos de continuidade
+
+Todas as habilidades têm o arquivo `references/arquivos-de-continuidade.md`, com conteúdo idêntico. Ele define dois arquivos que guardam o que já se sabe de um caso: `DIRETRIZES-DO-CASO.md`, um por cliente, com resumo, processos, objetivo, estratégia, próximos passos, decisões do advogado e propostas em aberto; e `indice.md`, um por processo, com o que existe nos autos e onde está. Com a pasta do caso acessível, toda habilidade os lê antes dos autos. O Estudo de Caso os cria e atualiza; as demais atualizam só a parte que o trabalho delas alterou. Em conversa sem pasta conectada, o Estudo de Caso entrega os dois arquivos para baixar, e as demais habilidades só os usam quando o usuário os anexa. Havendo mais de um processo na mesma pasta, o índice leva o número do processo no nome. O índice orienta a leitura, mas não comprova nem conta como exame do documento, e sugestão da ferramenta só vira decisão quando o advogado decide.
+
 ## Limites
 
 Relatórios anteriores orientam o trabalho. Afirmações decisivas devem ser conferidas nas fontes acessíveis, com indicação das lacunas e do último ato abrangido. Um pedido de estudo não autoriza automaticamente redigir uma peça.
@@ -96,3 +100,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.10.0:** a minuta integral de petição sai também em Word, no padrão neutro da Trilha (Times New Roman, tudo em preto, sem timbrado), por um script com auditoria de forma e de escrita; o núcleo comum proíbe o travessão em qualquer função no texto ao juízo e lista as marcas de texto automático a evitar.
 - **0.10.1:** logo da Trilha Criminal no campo `icon` do manifesto do Claude, para a página do plugin.
 - **0.11.0:** registro de fontes em todas as habilidades: pesquisa de legislação e de jurisprudência em toda execução, no STF, no STJ e no tribunal do caso, e arquivo separado com o link, o que foi lido e o estado de conferência de cada fonte; dois endereços do STF que deixaram de abrir foram retirados.
+- **0.12.0:** arquivos de continuidade do caso em todas as habilidades: diretrizes do caso, uma por cliente, e índice dos autos, um por processo, lidos antes dos autos quando a pasta do caso está acessível; o Estudo de Caso os cria e atualiza, com a conclusão registrada como proposta até o advogado decidir.

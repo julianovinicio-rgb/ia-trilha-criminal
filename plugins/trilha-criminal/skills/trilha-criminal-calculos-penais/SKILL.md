@@ -56,6 +56,7 @@ Conferir a conta de uma dosimetria é trabalho desta habilidade mesmo quando par
 | [Registro de fontes](references/registro-de-fontes.md) | Pesquisa de legislação e de jurisprudência em toda execução e arquivo de conferência que acompanha a entrega, com o link e o estado de cada fonte |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 | [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Arquivos de continuidade](references/arquivos-de-continuidade.md) | Início de todo trabalho em caso com pasta acessível ou com esses arquivos anexados; criação e atualização das diretrizes do caso e do índice dos autos |
 | [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## 1. Delimitar a conta e reunir as entradas
