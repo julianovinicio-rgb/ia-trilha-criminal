@@ -1,8 +1,8 @@
 # IA Trilha Criminal
 
-Versão 0.12.0, distribuída aos alunos da Trilha Criminal.
+Versão 0.13.0, distribuída aos alunos da Trilha Criminal.
 
-O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
+O plugin reúne nove habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
 | Trabalho | Habilidade |
 |---|---|
@@ -14,8 +14,9 @@ O plugin reúne oito habilidades independentes. Use a função correspondente ao
 | Analisar o constrangimento à liberdade, planejar, redigir, revisar ou atualizar HC, RHC e impugnações relacionadas | Trilha Criminal Habeas Corpus |
 | Recurso especial, extraordinário, agravos, embargos, reclamação e tutela de urgência no STJ e no STF | Trilha Criminal Recursos nos Tribunais Superiores |
 | Calcular prescrição, prazo processual, pena e requisito temporal da execução, com memória de cálculo | Trilha Criminal Cálculos Penais |
+| Transcrever gravação de audiência, depoimento ou outra mídia no próprio computador, com minutagem | Trilha Criminal Transcrição |
 
-Preventiva decretada depois da custódia é tratada pelas habilidades de Habeas Corpus ou de Peças Defensivas. Habeas corpus e RHC permanecem na habilidade de Habeas Corpus, e a apelação permanece na habilidade própria. A habilidade de Cálculos Penais faz a conta; a escolha do recurso cabível continua na habilidade do recurso.
+Preventiva decretada depois da custódia é tratada pelas habilidades de Habeas Corpus ou de Peças Defensivas. Habeas corpus e RHC permanecem na habilidade de Habeas Corpus, e a apelação permanece na habilidade própria. A habilidade de Cálculos Penais faz a conta; a escolha do recurso cabível continua na habilidade do recurso. A habilidade de Transcrição só transforma a gravação em texto; o estudo do que foi dito continua nas demais.
 
 Quem está começando deve ler o [Guia de início](GUIA-DE-INICIO.md). As condições de uso estão em [LICENSE.md](LICENSE.md).
 
@@ -33,6 +34,8 @@ Quem está começando deve ler o [Guia de início](GUIA-DE-INICIO.md). As condi�
 - “Revise este recurso especial quanto a prequestionamento, Súmula 7 e impugnação de todos os fundamentos do acórdão.”
 - “Calcule se este crime prescreveu, com os marcos destes documentos, e mostre a memória de cálculo.”
 - “Confira a dosimetria desta sentença e diga qual tese leva a pena para até quatro anos.”
+- “Transcreva a gravação desta audiência no meu computador, com minutagem.”
+- “Transcreva só o depoimento da testemunha, de 00:10:00 a 00:25:00.”
 
 ## Cálculos e script
 
@@ -47,6 +50,18 @@ A execução do script depende de a conversa permitir execução de código. Sem
 As habilidades que redigem petição (Peças Defensivas, Habeas Corpus, Recurso de Apelação, Recursos nos Tribunais Superiores e Flagrante e Custódia) têm o arquivo `scripts/peca_word.py`, idêntico nas cinco, e a referência `references/peca-em-word.md`. A minuta integral sai também em Word no padrão neutro da Trilha: A4, Times New Roman, corpo em 12 pt justificado, entrelinhas 1,15, citações em 11 pt com recuo de 4 cm, tópicos numerados em negrito, número de página e todo o texto em preto, sem timbrado. Quem tiver timbrado ou modelo próprio em Word pode enviá-lo, e o script o usa como base.
 
 O mesmo script audita o Word gerado ou recebido: forma (fonte, cor, página, parágrafos vazios) e marcas de texto automático fora das citações, como travessão, muletas de transição e ênfase artificial. A lista dessas marcas está no núcleo comum. Gerar o Word exige execução de código e a biblioteca `python-docx`; sem elas, a minuta vem no chat com o aviso.
+
+## Transcrição
+
+A habilidade Transcrição traz o arquivo `scripts/transcrever.py`, que transcreve áudio e vídeo no computador do usuário com o modelo Whisper (biblioteca `faster-whisper`). A mídia não é enviada a nenhum serviço. A internet é usada só na primeira vez, para baixar o programa (cerca de 250 MB) e o modelo (cerca de 1,6 GB).
+
+Ela só funciona onde o assistente executa programas no computador do usuário e alcança a pasta em que a mídia está, como o Claude Code e o Codex. Na conversa pelo site, em regra, isso não é possível, e a habilidade diz isso em vez de simular a transcrição. A instalação se faz por dois caminhos: com `uv`, que monta o ambiente sozinho, ou com Python 3.9 a 3.13, pelo comando `preparar`, que cria um ambiente próprio na pasta do usuário. Não é preciso instalar o ffmpeg.
+
+A saída traz o texto com a minutagem de cada trecho, a legenda em `.srt` e os dados em `.json`. O cabeçalho registra o nome e o SHA-256 da mídia, o modelo e a data. Trechos em que o próprio programa indicou baixa confiança ou repetição vêm marcados para conferência. É possível transcrever só um intervalo, e a minutagem continua sendo a da mídia original.
+
+Transcrição automática não identifica quem fala, erra nomes, números e trechos com ruído e pode criar frases em silêncio. Ela orienta a leitura e a localização de trechos; citação literal exige conferência na mídia. O tempo de processamento depende do computador e pode passar da duração da gravação.
+
+Por ser uma habilidade de apoio, a Transcrição não traz as referências comuns descritas nas seções seguintes: onde elas falam em todas as habilidades, entenda-se as outras oito. As regras de sigilo e de limite de afirmação que lhe cabem estão no próprio `SKILL.md`.
 
 ## Conferência legislativa
 
@@ -72,7 +87,7 @@ Todas as habilidades têm o arquivo `references/arquivos-de-continuidade.md`, co
 
 Relatórios anteriores orientam o trabalho. Afirmações decisivas devem ser conferidas nas fontes acessíveis, com indicação das lacunas e do último ato abrangido. Um pedido de estudo não autoriza automaticamente redigir uma peça.
 
-O pacote contém instruções, referências metodológicas, o script de cálculo da habilidade Cálculos Penais e o script de Word das habilidades que redigem petição. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
+O pacote contém instruções, referências metodológicas, o script de cálculo da habilidade Cálculos Penais, o script de Word das habilidades que redigem petição e o script de transcrição. O programa de transcrição e o modelo não vêm no pacote: são baixados no computador do usuário no primeiro uso. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
 
 Toda jurisprudência é pesquisada e conferida na própria execução. Os poucos julgados lidos na formação do Habeas Corpus ficam em `pistas-de-pesquisa.md`, com data e validade, apenas como ponto de partida. Onde um dado não puder ser conferido, a entrega informa que está pendente de verificação.
 
@@ -101,3 +116,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.10.1:** logo da Trilha Criminal no campo `icon` do manifesto do Claude, para a página do plugin.
 - **0.11.0:** registro de fontes em todas as habilidades: pesquisa de legislação e de jurisprudência em toda execução, no STF, no STJ e no tribunal do caso, e arquivo separado com o link, o que foi lido e o estado de conferência de cada fonte; dois endereços do STF que deixaram de abrir foram retirados.
 - **0.12.0:** arquivos de continuidade do caso em todas as habilidades: diretrizes do caso, uma por cliente, e índice dos autos, um por processo, lidos antes dos autos quando a pasta do caso está acessível; o Estudo de Caso os cria e atualiza, com a conclusão registrada como proposta até o advogado decidir.
+- **0.13.0:** nova habilidade Transcrição, que transcreve gravações no próprio computador do usuário, sem enviar a mídia a nenhum serviço, com minutagem em cada trecho e marcação dos trechos a conferir primeiro.

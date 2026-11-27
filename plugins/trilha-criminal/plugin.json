@@ -2,8 +2,8 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "trilha-criminal",
   "displayName": "IA Trilha Criminal",
-  "version": "0.12.0",
-  "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF e cálculos penais com fontes rastreáveis.",
+  "version": "0.13.0",
+  "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF, cálculos penais com fontes rastreáveis e transcrição de gravações no próprio computador.",
   "author": {
     "name": "Juliano Negreiros"
   },
@@ -21,7 +21,8 @@
     "habeas-corpus",
     "recursos-tribunais-superiores",
     "calculos-penais",
-    "prescricao"
+    "prescricao",
+    "transcricao"
   ],
   "extensions": {
     "com.openai": {
@@ -32,7 +33,7 @@
         "composerIcon": "./assets/trilha-logo-v024.png",
         "composerIconDark": "./assets/trilha-logo-v024.png",
         "shortDescription": "Estudo, custódia, peças, audiência, recursos, HC e cálculos",
-        "longDescription": "Método de trabalho defensivo criminal com análise individualizada, fontes rastreáveis, conferência legislativa na própria execução e revisão estratégica. Reúne oito habilidades autônomas: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus, Recursos nos Tribunais Superiores e Cálculos Penais.",
+        "longDescription": "Método de trabalho defensivo criminal com análise individualizada, fontes rastreáveis, conferência legislativa na própria execução e revisão estratégica. Reúne nove habilidades autônomas: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus, Recursos nos Tribunais Superiores, Cálculos Penais e Transcrição.",
         "developerName": "Juliano Negreiros",
         "category": "Productivity",
         "capabilities": [

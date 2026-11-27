@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trilha Criminal Transcrição"
+  short_description: "Transcrição local de audiências, com minutagem"
+  default_prompt: "Use $trilha-criminal-transcricao para transcrever esta gravação no meu computador, com minutagem, sem enviar o arquivo a nenhum serviço."
+policy:
+  allow_implicit_invocation: true

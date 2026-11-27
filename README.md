@@ -2,7 +2,9 @@
 
 Repositório de distribuição da **IA Trilha Criminal**, de Juliano Negreiros, para os alunos da Trilha Criminal.
 
-A IA reúne oito habilidades de atuação defensiva criminal: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus, Recursos nos Tribunais Superiores e Cálculos Penais.
+A IA reúne nove habilidades de atuação defensiva criminal: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus, Recursos nos Tribunais Superiores, Cálculos Penais e Transcrição.
+
+A Transcrição passa para texto a gravação de uma audiência no seu próprio computador, sem enviar o arquivo a nenhum serviço. Por isso ela funciona no aplicativo de computador, e não na conversa pelo site.
 
 Você não precisa de conta no GitHub nem precisa baixar nada deste site. A instalação é feita dentro do Claude, uma única vez, e as atualizações chegam sozinhas.
 
@@ -42,6 +44,6 @@ Leia o [Guia de início](plugins/trilha-criminal/GUIA-DE-INICIO.md). Ele leva ci
 
 ## Conteúdo
 
-O pacote contém instruções e referências metodológicas. Não inclui autos, peças reais, dados de clientes, credenciais ou catálogo de precedentes. Toda jurisprudência e legislação é pesquisada na própria execução, e cada entrega vem com um arquivo de fontes, com o link de cada artigo e de cada julgado, para o advogado conferir antes de usar. Para isso, a pesquisa na web precisa estar ligada na conversa.
+O pacote contém instruções, referências metodológicas e os scripts de cálculo, de Word e de transcrição. Não inclui autos, peças reais, dados de clientes, credenciais ou catálogo de precedentes. Toda jurisprudência e legislação é pesquisada na própria execução, e cada entrega vem com um arquivo de fontes, com o link de cada artigo e de cada julgado, para o advogado conferir antes de usar. Para isso, a pesquisa na web precisa estar ligada na conversa.
 
 Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do titular. Condições em [LICENSE.md](plugins/trilha-criminal/LICENSE.md).

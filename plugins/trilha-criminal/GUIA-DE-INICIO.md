@@ -4,7 +4,7 @@ Este guia é para quem acabou de instalar o plugin IA Trilha Criminal. Leva cinc
 
 ## O que o plugin faz
 
-Ele ensina ao assistente um método de trabalho defensivo criminal. São oito habilidades, cada uma para um tipo de trabalho. Você não precisa decorar os nomes: descreva o que quer e a habilidade certa é acionada. Se preferir, chame pelo nome no seletor de habilidades.
+Ele ensina ao assistente um método de trabalho defensivo criminal. São nove habilidades, cada uma para um tipo de trabalho. Você não precisa decorar os nomes: descreva o que quer e a habilidade certa é acionada. Se preferir, chame pelo nome no seletor de habilidades.
 
 | Você precisa de | Diga algo como |
 |---|---|
@@ -18,6 +18,7 @@ Ele ensina ao assistente um método de trabalho defensivo criminal. São oito ha
 | Recorrer ao STJ ou ao STF | "Identifique o recurso cabível e o prazo contra esta decisão." |
 | Sustentar oralmente | "Prepare o roteiro de sustentação oral desta apelação." |
 | Calcular prescrição, prazo, pena ou progressão | "Calcule se este crime prescreveu, com os marcos destes documentos." |
+| Transcrever uma gravação | "Transcreva a gravação desta audiência no meu computador, com minutagem." |
 
 ## Três regras para tirar o melhor resultado
 
@@ -42,11 +43,12 @@ A pesquisa de jurisprudência do STJ e a do STF costumam recusar ferramentas aut
 - **Nenhuma conta de cabeça.** Datas, frações e penas são calculadas por um script, e a entrega traz a memória de cálculo para você refazer. A data projetada é uma conta sobre os dados informados, e não um direito reconhecido. Se a sua conversa não executa código, a entrega avisa que a conta foi feita à mão.
 - **Minuta em Word.** A minuta completa de uma petição vem também em Word, em Times New Roman e toda em preto, sem timbrado. Se quiser o seu timbrado, envie o modelo do escritório em Word junto com o pedido.
 - **Memória do caso na pasta do cliente.** Com a pasta do cliente conectada, o Estudo de Caso cria dois arquivos: `DIRETRIZES-DO-CASO.md`, com o resumo, a estratégia e o que você já decidiu, e `indice.md`, com o que existe nos autos e onde está. As outras habilidades passam a lê-los antes de trabalhar, para não recomeçar do zero. No chat, sem pasta conectada, os dois arquivos vêm para baixar: salve-os na pasta do cliente e anexe-os no próximo pedido sobre o caso. Sugestão do assistente fica como proposta até você aprovar.
+- **Transcrição no seu computador, pelo aplicativo.** A gravação é transcrita na sua máquina e não é enviada a nenhum serviço. Por isso ela depende do aplicativo de computador, num modo em que o assistente trabalha com as pastas da máquina; pelo site, em regra, não é possível. Na primeira vez, o assistente pede para baixar o programa de transcrição, cerca de 2 GB ao todo, uma única vez. O tempo depende do computador e pode passar da duração da gravação. O texto vem com a minutagem de cada trecho, não diz quem está falando e pode ter erros: confira na gravação antes de citar.
 - **Nenhuma peça "pronta para protocolo".** O plugin entrega minuta elaborada, revisada no escopo indicado ou com pendências. A conferência final e a decisão de protocolar são suas.
 
 ## O que o plugin não faz
 
-Não acessa tribunais, não protocola, não acompanha processos, não ouve audiências e não substitui a sua leitura dos autos nem a sua responsabilidade profissional. O que ele consegue ler, pesquisar e gerar depende das ferramentas disponíveis na sua conversa: leitura de PDF, pesquisa na internet, navegador e criação de arquivos.
+Não acessa tribunais, não protocola, não acompanha processos, não ouve audiências ao vivo (transcreve apenas a gravação que você indicar) e não substitui a sua leitura dos autos nem a sua responsabilidade profissional. O que ele consegue ler, pesquisar e gerar depende das ferramentas disponíveis na sua conversa: leitura de PDF, pesquisa na internet, navegador e criação de arquivos.
 
 ## Sigilo
 
@@ -56,6 +58,7 @@ Os documentos que você envia são tratados como fonte do caso. O método proíb
 
 - **A habilidade errada foi acionada:** chame a certa pelo nome.
 - **A conta veio sem memória de cálculo:** a habilidade de cálculos não entrou. Chame-a pelo nome, `/trilha-criminal-calculos-penais`, e repita o pedido.
+- **A transcrição não começou:** confira se você está no aplicativo de computador e se a gravação está numa pasta que o assistente alcança. Se a instalação do programa falhar, o assistente mostra o erro e para; rede restrita ou antivírus costumam ser a causa.
 - **A entrega veio longa demais:** peça o recorte. "Só o capítulo da dosimetria."
 - **Um artigo ou julgado parece errado:** abra o arquivo de fontes e clique no link. Se a entrega veio sem ele, peça: "gere o registro de fontes desta entrega". O que não tiver link aberto e data, trate como não conferido.
 - **A versão está desatualizada:** confira se a atualização automática do marketplace está ligada, ou peça a atualização na hora (no Claude, "Verificar atualizações" na tela de plugins), e abra uma conversa nova.

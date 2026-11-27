@@ -2,6 +2,34 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.13.0
+
+Nova habilidade Transcrição. Motivo: os alunos pedem com frequência a transcrição da mídia da audiência, e as habilidades existentes só tratavam de transcrição já pronta.
+
+### Transcrição
+
+- Nova habilidade `trilha-criminal-transcricao`: transcreve áudio e vídeo no computador do usuário, sem enviar a mídia a nenhum serviço. Verifica antes se o ambiente executa programas na máquina do usuário; na conversa pelo site, diz que não é possível ali e orienta a usar o aplicativo, sem simular transcrição.
+- Novo `scripts/transcrever.py`, com quatro comandos: `diagnostico`, `preparar`, `transcrever` e `autoteste`. Usa a biblioteca `faster-whisper`, modelo `turbo` por padrão, no processador. Instalação por `uv` (dependências declaradas no próprio arquivo) ou por ambiente próprio criado com o Python do usuário. Não exige ffmpeg.
+- Saída em `txt`, `srt` e `json`, com minutagem pela primeira palavra de cada trecho, cabeçalho com nome e SHA-256 da mídia, modelo e data, e marca `[conferir: ...]` nos trechos de baixa confiança ou repetidos. Opções de trecho (`--inicio`, `--fim`), termos do caso (`--termos`) e modelo. Não sobrescreve transcrição anterior e guarda o parcial se for interrompido.
+- Regras de uso do resultado: sem atribuição de falante no arquivo; versão organizada só em arquivo separado, com falante marcado como provável; citação literal depende de conferência na mídia.
+- A habilidade não traz as referências comuns das outras oito. As regras de sigilo e de limite de afirmação estão no próprio `SKILL.md`.
+
+### Preparação de Audiência
+
+- `atualizacao-da-audiencia.md`: remissão à habilidade Transcrição quando for preciso transcrever a gravação.
+
+### Testes feitos e não feitos
+
+- Feitos em 27/11/2026, em Windows 11, sem placa NVIDIA, com áudio fictício gerado por voz sintética: os dois caminhos de instalação, o modelo padrão, o recorte de trecho e a minutagem depois de silêncio longo. Um áudio de 10 minutos e meio levou 8min45s antes da minutagem por palavra; com ela, trechos curtos levaram de 1,0 a 1,3 vez a duração.
+- A biblioteca `av` na versão 19 quebra a leitura da mídia pelo `faster-whisper` 1.2.1. O script fixa `av` abaixo de 19.
+- Não feitos: gravação real de audiência, macOS, computador sem Python e sem `uv`, Cowork, conversa pelo site e acionamento da habilidade em conversa nova.
+
+### Documentação e ferramentas
+
+- Manifestos: versão, descrição, palavra-chave `transcricao` e lista de nove habilidades.
+- README: linha na tabela, exemplos, seção "Transcrição" e entrada no histórico. Guia de início: linha na tabela, aviso em "O que esperar" e em "Se algo sair errado".
+- Fora do pacote: `testes/casos-de-teste.md` ganha casos de acionamento e da nova habilidade; `testes/materiais/transcricao/audiencia-ficticia.wav` é o áudio fictício de teste.
+
 ## 0.12.0
 
 Arquivos de continuidade do caso. Motivo: cada novo pedido sobre o mesmo caso recomeçava do zero, relendo os autos inteiros, e a estratégia conversada com o advogado se perdia entre uma conversa e outra.

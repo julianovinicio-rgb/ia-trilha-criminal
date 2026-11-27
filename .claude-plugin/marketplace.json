@@ -11,13 +11,13 @@
       "name": "trilha-criminal",
       "displayName": "IA Trilha Criminal",
       "source": "./plugins/trilha-criminal",
-      "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF e cálculos penais com fontes rastreáveis, com a minuta da petição também em Word e um arquivo de fontes para o advogado conferir cada artigo e cada julgado.",
-      "version": "0.12.0",
+      "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF e cálculos penais com fontes rastreáveis, com a minuta da petição também em Word e um arquivo de fontes para o advogado conferir cada artigo e cada julgado. Inclui a transcrição de gravações de audiência no próprio computador, sem enviar a mídia a nenhum serviço.",
+      "version": "0.13.0",
       "author": {
         "name": "Juliano Negreiros"
       },
       "license": "Proprietary",
-      "keywords": ["defesa-criminal", "habeas-corpus", "audiencia-de-custodia", "recursos-tribunais-superiores", "calculos-penais"]
+      "keywords": ["defesa-criminal", "habeas-corpus", "audiencia-de-custodia", "recursos-tribunais-superiores", "calculos-penais", "transcricao"]
     }
   ]
 }

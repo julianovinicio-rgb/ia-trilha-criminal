@@ -6,7 +6,7 @@ Receba anotações do advogado, trecho transcrito, ata, documento juntado ou mí
 
 Se houver anonimização, mantenha os identificadores fornecidos. Não associe falante a pessoa apenas pela ordem presumida de oitivas ou letra do programa. Em divergência entre fontes, registre o conflito e busque o original pertinente quando acessível; não escolha silenciosamente a versão mais favorável.
 
-Atualização não exige processamento de mídia: notas podem sustentar análise provisória com limites declarados. Se for necessário transcrever, verifique capacidade e autorização; não dispare serviço pago ou envio externo por inferência.
+Atualização não exige processamento de mídia: notas podem sustentar análise provisória com limites declarados. Se for necessário transcrever, verifique capacidade e autorização; não dispare serviço pago ou envio externo por inferência. A transcrição no próprio computador do usuário tem roteiro em Trilha Criminal Transcrição, quando disponível.
 
 ## Registro de mudanças
 
